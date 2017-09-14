@@ -1,0 +1,64 @@
+body {
+    padding-top: 70px;
+}
+
+body > nav.navbar {
+    border-color: rgb(142, 142, 142);
+}
+
+.dropdown-menu {
+    padding: 14px;
+}
+
+#filters li {
+    border: 0;
+    border-color: rgb(142, 142, 142);
+    border-style: solid;
+    border-left-width: 1px;
+    cursor: pointer;
+}
+
+#filters li a:hover {
+    background-color: #d9edf7;
+}
+
+#filters li:last-child {
+    border-right-width: 1px;
+}
+
+#add-patch-notes {
+    cursor: pointer;
+}
+
+.modal-header .close {
+    position: absolute;
+    right: 14px;
+    top: 14px;
+}
+
+#generate-data .modal-body > input {
+    width: 48%;
+}
+
+#generate-data .modal-body > div {
+    margin-top: 7px;
+}
+
+#generate-data .modal-body > div input[type="text"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 7px;
+}
+
+a.add-input,
+a.add-input:hover {
+    color: white !important;
+}
+
+@media (max-width: 768px) {
+    #filters li {
+        border-left-width: 0 !important;
+        border-right-width: 0 !important;
+        border-bottom-width: 1px !important;
+    }
+}

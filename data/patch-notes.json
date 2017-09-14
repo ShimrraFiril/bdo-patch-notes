@@ -1,0 +1,146 @@
+[
+    {
+        "categories": {
+            "Système": [
+                "Arrivée de l'éveil pour la Lame Sombre. Ajout des connaissances associées et de son titre \"Gardien des Ténèbres\"."
+            ],
+            "Classe": [
+                "Comme dis précédemment : Ajout de l'éveil pour la Lame Sombre."
+            ],
+            "Cashshop": [
+                "Ajout des costumes pour la Lame Sombre (guillie x2 et costume d'éveil).",
+                "Ajout du costume CS d'Anemos pour les chevaux."
+            ],
+            "Évent": [
+                "Mise en place de décoration pour le printemps dans divers endroits du jeu.",
+                "Mise à jour de l'événement saisonnier des Œufs d’Oie de Flondor pour ajouter une quête journalière.",
+                "Premier patch note de CM Kabz ! :p"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-12-avril-2017.472/",
+        "date": "2017-04-12"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Mise en place des favoris sur le marché pour retrouver rapidement ses objets préférés.",
+                "Il y a un délai de 10 minutes entre l'enregistrement d'un ouvrier à la vente et son apparition sur le marché.",
+                "Mise à jour du CS pour proposer tout un set de costume ensemble avec la possibilité via une mise à jour de l'IU d'acheter les pièces séparément.",
+                "Un événement de boost d’EXP ne s’accumule pas avec un objet de boost d’XP en dessous du niveau 30.",
+                "Ajout d’un filigrane sur les copies d’écrans a été ajouté.",
+                "Les objets de décoration peuvent être placés sur les étagères. Placer des objets sur les étagères augmentent aussi vos points d’intérieur.",
+                "Trois voix de combats ont été ajoutées à la customisation de voix."
+            ],
+            "Classe": [
+                "Modifications ou correction de bug sur les compétences pour les classes : Guerrier, Rôdeuse, Berserker, Dompteuse, Magicienne, Magicien, Kunoichi"
+            ],
+            "Quête": [
+                "Ajout d’une nouvelle quête permettant d’obtention d’EXP de Navigation ajouter à Siruham à Port Ratt."
+            ],
+            "Mécanique": [
+                "Un message de canal est diffusé à tous les joueurs lors de l'enregistrement d'un nouveau cheval (normalement, seul les T8) au marché.",
+                "Les objets afficheront directement si le geopoint qui leur est lié (commerce et pêche) est relié par le joueur.",
+                "Mise à jour de certaines compétences d'ouvriers (stats et correction de bug).",
+                "Amélioration du bonus de Jeton de commerce du désert de Marzana.",
+                "De nouveaux poissons peuvent être vendu à la pêche impériale.",
+                "Ajout d’indices pour l’obtention des titres. Vous pouvez les vérifier depuis l’onglet Titre.",
+                "Ajout du système de Coursier au contenu du cheval.",
+                "Tout comme pour les ouvriers, la mise en vente d'un cheval sera effective 10 minutes après son enregistrement.",
+                "Il y a maintenant des notifications pour la mise en vente des ouvriers (artisan) et des chevaux (T8).",
+                "Ajout de nouveaux titres liés aux guerres de conquêtes. C'est dernier ne dure que 7 jours et se basent sur le nombre de joueurs tués. Ils ajoutent un effet au joueur s'il est équipé."
+            ],
+            "UI": [
+                "Ajout d'une option carte graphique faible puissance qui peut-être désactivée pour augmenter les performances mais consommer plus d'énergie.",
+                "Vous pouvez maintenant sélectionner votre canal principal depuis l’écran de sélection des canaux. Sélectionner un serveur principal pour vous y connecter d’un seul clic.",
+                "Guide des enchaînements d'actions a été changé en Guide de Compétence.",
+                "Le nombre maximum d’emplacements utilisables en cuisine est de 3.",
+                "Le nombre maximum d’emplacements utilisables en cuisine/Alchimie impériale est de 3.",
+                "L’effet de chute de neige dans les zones de combat peut être désactivé dans les paramètres."
+            ],
+            "Objet": [
+                "Ajout de nouveaux objets permettant de polir les pierre d'alchimie de vie.",
+                "Ajustement de certains schéma pour assembler des objets dans son inventaire."
+            ],
+            "Cashshop": [
+                "Mise en place de soldes temporaires.",
+                "Ajout du pet \"Choppy\".",
+                "Ajout des costumes CS Anemos pour toutes les classes (ou juste les promotions, pas sûr ...)."
+            ],
+            "Évent": [
+                "Ajout de l'événement saisonnier des Œufs d’Oie de Flondor."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?forums/notes-de-patch.117/",
+        "date": "2017-04-05"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Mise à jour des horaires de guerre de conquête et de géopoints pour s'ajuster à l'heure d'été.",
+                "Nouvelle options de customisation pour la voix des personnages."
+            ],
+            "Classe": [
+                "Lame Sombre : Correction de l’application des dégâts avec un javelot sur le dos d’un éléphant."
+            ],
+            "Mécanique": [
+                "Mises à jour des intitulés de certaines connaissances pour mieux correspondre aux régions maritimes.",
+                "Diminution du nombre de connaissance pour compléter certaines catégories et débloquer les points d'énergies associés."
+            ],
+            "Objet": [
+                "Il est dorénavant possible d'échanger les 3 ceinture de combattant rhutum entre ses personnages."
+            ],
+            "Cashshop": [
+                "Un nouveau set de meubles a été ajouté."
+            ],
+            "Évent": [
+                "Nouvel événement d'assiduité.",
+                "Fin de l’événement de lancement de la Lame Sombre."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-29-mars-2017.354/",
+        "date": "2017-03-29"
+    },
+    {
+        "categories": {
+            "UI": [
+                "Il est maintenant possible d'activer un système d'alignement automatique lors de la modification de l'IU pour aligner les emplacements de touche rapide."
+            ],
+            "Objet": [
+                "Il est maintenant possible d'acheter via l'hôtel des ventes du jeu l'objet \"Billet d'échange de costume\". (cf ce tuto pour plus d'explication)."
+            ],
+            "Cashshop": [
+                "Ajout de costumes saisonniers pour une bonne partie des classes féminines.",
+                "Nouvelles décorations pour les maisons"
+            ],
+            "Évent": [
+                "Événement saisonnier pour l'arrivée du printemps (décoration de villes, boites en récompense et nouvelle décoration de maison accessible uniquement durant l’événement)."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-22-mars-2017.309/",
+        "date": "2017-03-22"
+    },
+    {
+        "categories": {
+            "Système": [
+                "L'aventure de l'esprit occulte"
+            ],
+            "Mécanique": [
+                "Les guildes sans géopoints peuvent à présent déclarer des guerres contre n'importe qu'elle autre guilde.",
+                "Correction de l’interruption de voyage automatique lorsqu’un ping de guilde et placé sur la carte. (Réflexion personnelle : soit disant, j'ai encore des remontées en guilde de ce soucis)."
+            ],
+            "Objet": [
+                "Ajout des costumes craftables de la lame sombre"
+            ],
+            "Cashshop": [
+                "Ajout de costumes pour Valkyrie et Musa",
+                "Ajout du pet \"Tom le long\""
+            ],
+            "Évent": [
+                "Evénement de la Saint Patrick (Distribution de bières d'xp)",
+                "Ajout d'un colorant vert temporaire"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-15-mars-2017.198/",
+        "date": "2017-03-15"
+    }
+]
