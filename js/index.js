@@ -20,7 +20,7 @@
 
     $(document).ready(function () {
         // On charge les patch notes.
-        $.ajax({url: '/data/patch-notes.json', cache: false})
+        $.ajax({url: 'data/patch-notes.json', cache: false})
             .done(function (data) {
                 patchNotes = data;
                 refreshDisplayPatchNotes();
