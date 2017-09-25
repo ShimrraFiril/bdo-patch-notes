@@ -2,6 +2,117 @@
     {
         "categories": {
             "Système": [
+                "Ajout de l’IU détachable permettant de sortir des éléments de l’interface à l’extérieur de la fenêtre de jeu.",
+                "Les fonctions de Dernier canal connecté et Canal aléatoire ont été ajoutées au bas de la liste des canaux lors de la connexion au jeu.",
+                "Certaines zones sûres comme l’île d’Iliya sont devenues des zones de combat.",
+                "Les joueurs peuvent maintenant courir, rouler, ou bouger dans une position assise avec un mousquet équipé.",
+                "Le vitesse de mouvement a été augmenté avec un mousquet équipé et le nombre de balles avant recharge est de deux.",
+                "Les joueurs ne peuvent pas tirer au mousquet sur une monture possédant la compétence «Deux places»."
+            ],
+            "Classe": [
+                "Correction du souci causant un personnage d’être étourdit après être tombé et attaqué par une compétence de Rage d'esprit occulte : Guerrier, Sorcière, Berserker, Rôdeuse, Kunoichi et Ninja.​",
+                "Augmentation grandement augmentée lors de l’attaque d’une créature invoquée sur les bâtiments de guerre de siège.",
+                "Guerrier : Corrections et améliorations sur les capacités (6) : Flux : Brise-cheville, Enterrement, Flux : Coup téméraire, Flux : Tempête.",
+                "Rôdeuse : Corrections et améliorations sur les capacités (5) :  Volonté du Vent, entraves spirituelles, Vent pénétrant, Découpe furieuse d’Ohwa, Vent gémissant.",
+                "Sorcière : Corrections et améliorations sur les capacités (7) : Libération obscure, Libération obscure IV, Moisson des âmes, Ténèbres absolues, Coup de pied ténébreux, Jugement de la faucheuse, Le cauchemar de Cartian.",
+                "Berserker : Corrections et améliorations sur les capacités (3) : Brise-roche, Flux : Bagarre, Dynamitage",
+                "Dompteuse : Corrections et améliorations sur les capacités (4) : Déluge de coups, Heilang : Éclair du néant, Rotation complète, Perce-écho.",
+                "Valkyrie : Corrections et améliorations sur les capacités (20) : Lueur tranchante, Flux : Contre tranchant, Lumière intense III et IV, Projection céleste, Pouvoir Divin, Verdict : Lance de justice, Flux : Révélation par le Sanctus, position de parade/contre, Charge lumineuse, Lancer de Bouclier, changement d'arme accéléré, Puissance divine, Puissance divine ultime, Entaille éblouissante, Terre Sainte, Coup de poignard éclair, Ultime : Coup de poignard éclair, Sprint désespéré, Assaut sacré",
+                "Magicien : Corrections et améliorations sur les capacités (2) :  Pluie de météores, Boule d'eau.",
+                "Magicienne : Corrections et améliorations sur les capacités (3) : Pluie de météores, Pluie de tourments, Psyché de spectre d’Aad.",
+                "Musa : Corrections et améliorations sur les capacités (12) : Flèche véloce : tir d'évitement, Découpe tourbillon, Découpe tourbillon : cyclone, Coup de pied circulaire, Coup de pied circulaire ultime, Lame du tigre, Trancheur, Morsure de dragon, Séparateur, Flux : Taillade, Flux : Refoulement, Tornade, Découpe transversale",
+                "Maehwa : Corrections et améliorations sur les capacités (10) : Flèche véloce : tir d'évitement, Découpe tourbillon, Découpe tourbillon : cyclone, Coup de pied circulaire, Coup de pied circulaire ultime, Lame du tigre, Trancheur, Morsure de dragon, Séparateur, Lame du Tigre, Flux : Coup de poignard de nuage, Lame tenace",
+                "Ninja : Corrections et améliorations sur les capacités (6) : Kunai : Lancer évasif, Flux : Brise-cheville, Flux: Explosion Mach, Décapitation soudaine, Tueur né, Pas Ninja",
+                "Kunoichi : Corrections et améliorations sur les capacités (6) : Kunai : Lancer évasif, Toupie de sang, Flux : Colère, Ruée lunaire, Shuriken : poison, pas fantôme, Taillade demi-lune",
+                "Lame Sombre : Corrections et améliorations sur les capacités (7) : Roue du Destin, Nocturne​, Démonstration de Force IV, Flot : Coup Final, Terrain Corrompu, Frappe dissimulée III"
+            ],
+            "Quête": [
+                "Correction des quêtes de Valencia marquées en tant que quêtes de Mediah.",
+                "La méthode pour acquérir la connaissance de la Zone neutre centrale a été modifiée.",
+                "Les conditions pour la quête «Par vents et marées» ont été modifiées.",
+                "Résolution d’un problème lorsque la connaissance de certains Cartographes sur les iles ne pouvait pas être acquise via une conversation.",
+                "Une nouvelle série de quêtes d’histoire dans Calpheon, «Monarque des ténèbres» a été ajouté.",
+                "Les quêtes «Échange d'armure magique l», et «Échange d’arme secondaire I» ont été modifié de «Lié à la famille» à «Lié au personnage» et l’histoire complète a été réinitialisé.",
+                "Une quête a été ajouté en tant que prérequis pour la quête «Mon premier petit poney».",
+                "L’expérience de contribution acquise après avoir complété les quêtes quotidienne à Balenos, Serendia et Calpheon a été augmenté.",
+                "Pour Raffinement IV, l’énergie maximale obtenue sera de 1.",
+                "Le tutoriel en relation avec «Escalade de murs» a été ajouté."
+            ],
+            "Mécanique": [
+                "Lors de la capture d’un cheval ou d’un bébé éléphant, la corde de capture ne peut pas être lancée depuis une distance inférieure à 10M de la cible.",
+                "Mise en place des options \"optimisation\" et \"durabilité\" lors des enchantements sous certaines conditions.",
+                "Le lieu de rassemblement des pécheurs en face de Velia a été légèrement déplacé.",
+                "Les joueurs ayant le bonus de Magnat recevront l’effet de succès du jeu de marchandage sans avoir à jouer à celui-ci.",
+                "Certaines étagères murales ont été modifié pour permettre le placement d’objet sur elles.",
+                "En fonction du prix cumulé, l’effet du magnat sera appliqué uniquement lors de l’achat d’Articles à vendre limités.",
+                "Sur les serveurs de Géoconflit et de Guerre de Siège, les World Boss n’apparaitront pas pendant les 15min qui précèdent et suivent le début et la fin de la guerre.",
+                "Les articles qui ont été marqué d’une enchère dans l’hôtel des ventes peuvent maintenant être achetés à un prix supérieur au prix minimum.",
+                "Des nouveaux monstres pour la chasse ont été ajoutés aux Montagnes Orientales de Balenos : Sanglier géant et Cerf à grands bois Géant.",
+                "Changement de l’emplacement du Traqueur khuruto à proximité du PNJ Atu à la Mine de fer abandonnée de Mediah.",
+                "Les PV des montres de Mediah suivants ont été réduit : Tatou et Hérisson des herbes​.",
+                "Les monstres suivants seront en position d’attente au niveau de la surface à Tombe du soldat dans Mediah : Squelette frénétique, Fendeur squelette frénétique, Squelette vengeur​.",
+                "Les monstres suivants ont été ajoutés dans la zone de la Tombe du soldat : Squelette frénétique, Fusilier squelette frénétique, Fendeur squelette frénétique, Cerbère squelette frénétique, Sorcière occulte frénétique​",
+                "Les Centaures lanceront désormais moins de javelot mais attaqueront à une portée plus courte.",
+                "L’expérience gagnée et le taux de Pierres noires ont été un peu augmentés sur ces monstres lorsque vous tuerez ces monstres : Centaure, Chasseur centaure, Centaure à la Hache​",
+                "Le schéma de combat pour le Troll mutant et l’Ogre mutant a été modifié : Si leurs PV descendent à un certain niveau, ils attaqueront plus férocement.​",
+                "Tous les joueurs ayant infligé des dégâts sur les Troll mutant et l’Ogre mutant seront maintenant en mesure de récupérer le butin."
+            ],
+            "UI": [
+                "Lorsque vous transférez des objets empilables depuis l’inventaire au dépôt, les joueurs peuvent maintenant choisir de montrer le montant maximal en tant que montant affiché sur l'écran de saisie.",
+                "L’heure de la réinitialisation de la livraison impériale a été ajouté à la fenêtre d’informations dans le menu échappe.",
+                "La classe du personnage, le niveau et le nom apparaîtront désormais systématiquement sur les icônes des joueurs du groupe de la carte du monde.",
+                "Les catégories vitesse de caméra et position actuelle du joueur ont été ajouté dans les touches de raccourci des options de l’IU.",
+                "L'information sur les jardins des joueurs peut maintenant être vérifiée sous leur liste Mes Jardins.",
+                "L’ordre des serveurs apparaîtra désormais de façon aléatoire dans l’écran de sélection des serveurs.",
+                "Les monstres pour la chasse seront maintenant identifiables par une icône de chasse (ressemblant à un cerf).",
+                "Les touches d’interaction peuvent maintenant être changées pour d’autres dans les touches de raccourci de l’IU."
+            ],
+            "Objet": [
+                "Ajout de nouveaux vêtements de vie correspondant à la Navigation.",
+                "Ajout du Kit de réparation de navire.",
+                "Ajout de 5 nouveaux costumes.",
+                "Augmentation des chances d’optimisation de certains équipements.",
+                "Les objets suivants ont leur précision augmentée exponentiellement et leur description modifiée : Arme de Styd, Arme de Styd ultime, Arme de Basteer, Arme de Basteer ultime​",
+                "Ajout d’un nouveau type de cristal nommé Cristal d’Esprit.",
+                "Les costumes de Soldat de Serendia et de Soldat débutant de Serendia ont été modifiés pour inclure un casque.",
+                "Les accessoires de pouvoir magique peuvent être rendus avec des sceaux ou des jetons de promesse."
+            ],
+            "Cashshop": [
+                "Une fenêtre demandera confirmation avant la première utilisation des contrats de servantes.",
+                "Lame Sombre : Ajout du costume de Lahr Arcien (R).",
+                "Lame Sombre : Ajout de deux sous vêtements.",
+                "Ajout de quelques décorations / meubles pour la maison."
+            ],
+            "Évent": [
+                "Fin de l’événement des Œufs d’Oie de Flondor."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-26-avril-2017.542/",
+        "date": "2017-04-26"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Ajout de l'éléphant Cadria pour les guildes.",
+                "Ajout d'un nouvel objet \"Guide de compétence d’Armstrong (30 jours)\" pour la récompense des 5000 heures de jeu."
+            ],
+            "Quête": [
+                "Ajout des quêtes réservées aux Maîtres de guildes pour l’obtention d’un Éléphant de Valencia (Groupe 1) et/ou [Guilde] Enregistrement de bateau : Galère."
+            ],
+            "Cashshop": [
+                "Ajout de nouveaux costumes Kibelius pour la majorité des classes."
+            ],
+            "Évent": [
+                "Concours de capture d'écran des Tulipes.",
+                "L’événement des fleurs de cerisier est achevé et les objets liés ont été retirés."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-19-avril-2017.500/",
+        "date": "2017-04-19"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Arrivée de l'éveil pour la Lame Sombre. Ajout des connaissances associées et de son titre \"Gardien des Ténèbres\"."
             ],
             "Classe": [
