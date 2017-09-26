@@ -1,6 +1,22 @@
 [
     {
         "categories": {
+            "Objet": [
+                "Ajout de l'objet [Événement] Sceau de Shakatu."
+            ],
+            "Cashshop": [
+                "Ajout du nouveau pet Crabe caraparoche.",
+                "Ajout de costumes pour Maehwa, Dompteuse, Ninja et Musa."
+            ],
+            "Évent": [
+                "Lancement du concours de bande annonce réalisée par la communauté."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-3-mai-2017.804/",
+        "date": "2017-05-03"
+    },
+    {
+        "categories": {
             "Système": [
                 "Ajout de l’IU détachable permettant de sortir des éléments de l’interface à l’extérieur de la fenêtre de jeu.",
                 "Les fonctions de Dernier canal connecté et Canal aléatoire ont été ajoutées au bas de la liste des canaux lors de la connexion au jeu.",
