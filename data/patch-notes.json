@@ -2,11 +2,35 @@
     {
         "categories": {
             "Objet": [
+                "Mise en place des objets \"Conseil de Valks\" récupérable dans la boite cadeau liée à l’événement de la famille Lauren."
+            ],
+            "Cashshop": [
+                "Kunoichi : Ajout de sous vêtements.",
+                "Magicienne : Ajout de sous vêtements.",
+                "Maehwa : Ajout de sous vêtements.",
+                "Valkyrie : Ajout de sous vêtements.",
+                "Dompteuse : Ajout de sous vêtements.",
+                "Sorcière : Ajout de sous vêtements.",
+                "Rôdeuse : Ajout de sous vêtements."
+            ],
+            "Évent": [
+                "Événement de distribution des pièces de la famille Lauren."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/informations-de-maintenance-10-mai-2017.1686/",
+        "date": "2017-05-10"
+    },
+    {
+        "categories": {
+            "Objet": [
                 "Ajout de l'objet [Événement] Sceau de Shakatu."
             ],
             "Cashshop": [
                 "Ajout du nouveau pet Crabe caraparoche.",
-                "Ajout de costumes pour Maehwa, Dompteuse, Ninja et Musa."
+                "Maehwa : Ajout d'un costume.",
+                "Dompteuse : Ajout d'un costume.",
+                "Ninja : Ajout d'un costume.",
+                "Musa : Ajout d'un costume."
             ],
             "Évent": [
                 "Lancement du concours de bande annonce réalisée par la communauté."
@@ -135,7 +159,7 @@
                 "Comme dis précédemment : Ajout de l'éveil pour la Lame Sombre."
             ],
             "Cashshop": [
-                "Ajout des costumes pour la Lame Sombre (guillie x2 et costume d'éveil).",
+                "Lame Sombre : Ajout des 3 costumes (guillie x2 et costume d'éveil).",
                 "Ajout du costume CS d'Anemos pour les chevaux."
             ],
             "Évent": [
@@ -259,7 +283,8 @@
                 "Ajout des costumes craftables de la lame sombre"
             ],
             "Cashshop": [
-                "Ajout de costumes pour Valkyrie et Musa",
+                "Valkyrie : Ajout d'un costume.",
+                "Musa : Ajout d'un costume.",
                 "Ajout du pet \"Tom le long\""
             ],
             "Évent": [
