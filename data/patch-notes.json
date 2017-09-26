@@ -1,6 +1,100 @@
 [
     {
         "categories": {
+            "Système": [
+                "Un Répertoire de Paramètres a été ajouté, vous permettant de sauvegarder et charger vos paramètres personnalisés.",
+                "Une fonction de capture d’écran haute résolution a été ajoutée dans les Paramètres du Jeu > Écran.",
+                "Vous pouvez choisir d’afficher ou non votre nom de famille ou de personnage dans la fenêtre de chat.",
+                "L’horodatage a été ajouté à la fenêtre de chat.",
+                "Vous pouvez ajuster la taille de la fenêtre avec votre souris en mode fenêtré.",
+                "Vous pouvez vérifier le Marché aux chevaux via la carte du monde.",
+                "Vous pouvez ajuster l’effet d’opacité dans les Paramètres du jeu > Écran.",
+                "Vous pouvez ajuster l’effet de mise au point durant les combats via les Paramètres du jeu > Écran."
+            ],
+            "Classe": [
+                "Guerrier : Corrections et améliorations sur les capacités (4) : Pulvériser, Flux : Coup de genou, Flux : Découpe des morts, Enterrement",
+                "Rôdeuse : Corrections et améliorations sur les capacités (4) : Vent rasoir, Lame froide, Flux : Tempête, Rage elfique",
+                "Sorcière : Corrections et améliorations sur les capacités (6) : Flamme funèbre II, Chasse fatale, Marque de l'ombre III et IV, Coup de pied, Jugement de la Faucheuse",
+                "Berserker : Corrections et améliorations sur les capacités (1) : Dévastation, Flux : Partage des terres",
+                "Dompteuse : Corrections et améliorations sur les capacités (3) : Heilang : Griffe haute, Danse de la Bête légendaire (Tigre blanc) II, III et IV",
+                "Valkyrie : Corrections et améliorations sur les capacités (5) : Coup de poignard éclair, Défense solide, Terre Sainte, Entraînement à la Lance, Châtiment",
+                "Magicien : Corrections et améliorations sur les capacités (7) : Séisme, Jugement ardent,  changement d'arme accéléré et garde fonctionnelle, correction de la super armure non appliquée dans certains cas",
+                "Magicienne : Corrections et améliorations sur les capacités (8) : Séisme, Jugement ardent, Protection de Crevasse, changement d'arme accéléré et garde fonctionnelle, correction de la super armure non appliquée dans certains cas",
+                "Musa : Corrections et améliorations sur les capacités (3) : Lacération, Broyeur de croûtes, Pas en arrière",
+                "Maehwa : Corrections et améliorations sur les capacités (6) : Lacération, Morsure de Dragon, Griffe de dragon, Flux : Sprint du Clair de Lune, Flocon de neige collant",
+                "Ninja : Corrections et améliorations sur les capacités (4) : Balayage, Ascension du Dragon, Pluie de lames, Lacération du vide",
+                "Kunoichi : Corrections et améliorations sur les capacités (3) : Balayage, Disque lunaire, Toupie de sang",
+                "Lame Sombre : Corrections et améliorations sur les capacités (2) : Cendres Obsidiennes, Terrain Corrompu, Explosion de l’ombre V, Griffes Ravageuses IV"
+            ],
+            "Quête": [
+                "Certaines quêtes permettant d’obtenir des Jetons de promesse/Sceaux ont été mises à jour.",
+                "La partie de la Mission d’élimination de Guilde, Combattre les Waragons de Valencia, a été retirée.",
+                "Amélioration de l’affichage du niveau de Commerce minimum requis maintenant correctement affiché dans la description des Missions de guilde de Commerce.",
+                "La quête «Le Prophète d’Altinova» a été retirée de la quête principale.",
+                "La série de quêtes «Le passé d’Encarotia» a été ajoutée à la Capitale de Calpheon.",
+                "Certaines quêtes sont maintenant répétables et ne donnent plus d’EXP de contribution en récompense.",
+                "De nouvelles quêtes répétables ont été ajoutées au Sanctuaire d'Elric dans la région de Mediah.",
+                "La quête journalière du Poste des Helms a été transformée en quête répétable immédiatement.",
+                "Ajout de la quête : Tiny Light to Drive Out the Darkness via l'esprit occulte.",
+                "Ajout de 3 nouvelles quêtes journalières de chasses liées aux nouveaux monstres ajoutés.",
+                "Une nouvelle quête a été ajoutée à la Taverne d’Altinova.",
+                "Une fois les 9 connaissances acquises à propos du Journal d'aventure du grand désert III, vous pouvez compléter l’histoire. Le niveau maximum d’Énergie pouvant être atteint à été changé en +1."
+            ],
+            "Mécanique": [
+                "Remise en place de la fonction de Réservation à la Boutique secrète (Patrigio).",
+                "Mise en place de 3 modes pour les pets. Agile, normal et prudent qui affecteront l'énergie consommées et la rapidité d'action.",
+                "La jauge de Faim a été doublée pour tous les animaux de compagnie.",
+                "L’Atelier de Florin, un nouvel Atelier de fabrication de meubles, a été ajouté à Florin 1-3.",
+                "L’Atelier de Tarif, un nouvel Atelier de fabrication de meubles, a été ajouté à Tarif 2-3.",
+                "L’Atelier de Arehaza, un nouvel Atelier de fabrication de meubles, a été ajouté à Arehaza 2-1.",
+                "Ajout de quelques tutoriels.",
+                "Résolution du souci empêchant parfois les Éléphants Cadria d’être affectés par les pièges à éléphant.",
+                "Lors du mini-jeu de dressage de chevaux sauvages, l’indicateur de touche ESPACE ne s’affichera que lorsque le cheval se cabrera.",
+                "11 nouveaux titres ont été ajoutés.",
+                "Le minimum de participants pour le Champ de bataille rouge a été ajusté à 10.",
+                "Utiliser la compétence Éperonner (Galère et Voilier d’Epheria) pour attaquer les monstres marins et les autres navires fonctionnera maintenant normalement en appliquant les dégâts corrects.",
+                "Le nouveau PNJ Baan a été ajouté à l’entrée du Sanctuaire d’Elric.",
+                "La Banque d'investissement a été ajoutée à la Liste d'utilisations de la maison pour chaque ville.",
+                "Correction du problème lié au retour au point de départ de l’Ogre mutant ou du Troll mutant après qu’ils se soient déplacés sur une certaine distance et ceux-ci ne voient pas leurs PV restaurés.​",
+                "Un nouveau monstre de chasse, l’Ours brun géant, a été ajouté à la Montagne de Balenos Ouest et Est.​",
+                "Des monstres de chasse, l’Élan et le sanglier, ont été également ajoutés à la Montagne de Balenos Ouest.​",
+                "De nouveaux monstres de chasse, le Renard géant et le Loup géant, ont été ajoutés à la Montagne de Balenos située à l’est du Port d’Epheria.",
+                "Les mouvements de la Baleine bleue ont été améliorés afin de leur donner un air naturel.​",
+                "Les PV de la Baleine bleue ont été augmentés et il est maintenant plus facile de l’atteindre.​",
+                "Le taux d’obtention des Pierres noires a été augmenté en chassant la Baleine bleue.​"
+            ],
+            "UI": [
+                "Vous pouvez basculer entre les onglets de chat via un raccourci.",
+                "Le statut de Transport des objets du Dépôt ne sont maintenant plus affichés dans l’onglet Statut du transport des autres villes mais uniquement dans la ville d’origine et de destination.",
+                "Si vous fermez la fonction de sticker d’IU (Interface Utilisateur) et activez la fenêtre nouveau, la fenêtre apparaîtra maintenant où elle a été fermée.",
+                "Vous pouvez maintenant vérifier les compétences, équipement et informations de costume de votre cheval dans la fenêtre d’information qui est liée à la fenêtre d’information du wagon.",
+                "Les vêtements fonctionnels et vêtements pouvant être fabriqués ont été ajoutés sous la catégorie Armure du Marché.",
+                "Le pourcentage de Faim est maintenant affiché dans la liste des animaux de compagnie et l’EXP dans la fenêtre d’information de l’animal.",
+                "L’option d’affichage d’une grille en mode d’édition de l’IU a été ajoutée.",
+                "Il est maintenant possible de sauvegarder jusqu'à 3 profils d'UI personnalisée pour les réappliquer rapidement."
+            ],
+            "Objet": [
+                "La chasse permet à présent d'obtenir les objets Tête d'ours empaillée et Tête de renard empaillée.",
+                "L’efficacité d’attaque des canons améliorés a été accrue.",
+                "Les dégâts contre les Forteresses et Postes de commandement ont été diminués pour les Galères et Voiliers d’Epheria.",
+                "Le Cristal magique atténué : Navigation peut maintenant être créé via la technique de Meulage.",
+                "Les chances d’obtenir un Éclat de cristal noir tranchant et un Éclat de cristal noir dur via l’Agriculture ont été légèrement augmentées.",
+                "Trois nouveaux accessoires ont été ajouté : Collier de sort faible, Collier de sort faible concentré et Collier de sort faible scellé.",
+                "La formulation pour Précision, Esquive, Augmentation et Diminution de PA a été révisée pour certains objets. Les effets restent les mêmes, il y a juste eu une harmonisation des valeurs des stats.",
+                "Ajout de l'objet fragment de griffe de l'Esprit Occulte."
+            ],
+            "Cashshop": [
+                "Ajout du set Arneus pour les wagons.",
+                "Lame sombre : Ajout de sous vêtements.",
+                "Sac d’équipement de Morco.",
+                "[Loyalties] Sac de costumes de Patrigio."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-17-mai-2017.3204/",
+        "date": "2017-05-17"
+    },
+    {
+        "categories": {
             "Objet": [
                 "Mise en place des objets \"Conseil de Valks\" récupérable dans la boite cadeau liée à l’événement de la famille Lauren."
             ],
