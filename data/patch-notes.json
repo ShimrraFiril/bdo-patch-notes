@@ -2,6 +2,64 @@
     {
         "categories": {
             "Système": [
+                "Ajout de 6 nouveaux canaux. 2 sont dédiés aux joueurs revenant ou nouveaux joueurs hors steam, 4 aux joueurs steam."
+            ],
+            "Classe": [
+                "Ajout d’une nouvelle classe : le Poings Furieux (Striker en anglais).",
+                "Correction du changement soudain d’emplacement de joueur en JcJ après un trébuchement.​",
+                "Le problème du bouclier éveillé de la Valkyrie a été résolu."
+            ],
+            "Quête": [
+                "Tutoriel d’extraction ajouté au PnJs forgerons.",
+                "2 Pierres noires (arme) et 2 Pierres noires (armure) ont été ajoutées aux récompenses de quête pour la dernière tâche de la série Chasser au Sud-ouest de Calpheon."
+            ],
+            "Mécanique": [
+                "Augmentation notable des chances d’élever un cheval de groupe supérieur.",
+                "Ajout de la fonction de magasin au Cartographe du camp des orcs, Buddy le chasseur d'orcs.",
+                "Discuter avec le PnJ cartographe de la Zone du volcan de Gavinya, Muturan, vous permet d’obtenir la connaissance de la zone correspondante.",
+                "Non annoncé dans le patch notes : Kzarka a été mis à jour avec de nouvelles capacités."
+            ],
+            "UI": [
+                "Ajout d’un icône récupérer sur le menu principal. cliquez sur ce bouton pour ouvrir votre page de compte et récupérer les objets sur les coupons Web.",
+                "Retrait du bouton de marché à côté de l’icône de ville sur la carte mondiale.",
+                "Dans Mes Informations > Optimisation, un text pop-up apparait pour vous indiquer les classes affectées par l’augmentation de vitesse d’attaque et vitesse de conjuration."
+            ],
+            "Objet": [
+                "Ajout de l’arme principale «Gantelets» et de l’arme secondaire «Coudières» du Poings Furieux.",
+                "La description de l'objet Cristal de magie noire - Agilité a été ajusté : Tous types d'esquive +12 → Tous types d'esquive +8​."
+            ],
+            "Cashshop": [
+                "Réductions au magasin de perle et coupons.",
+                "Pour marquer le lancement du jeu sur Steam, des coupons de réductions (limité sur le temps) ont été donnés.",
+                "Poings furieux : Ajout des costumes et sous vêtements de lancement.",
+                "Lame Sombre : Ajout du costume Puff Mini.",
+                "Rôdeuse : Ajout du costume Stella.",
+                "Valkyrie : Ajout du costume Joutes.",
+                "Sorcière : Ajout du costume Lucien Blanc.",
+                "Magicienne : Ajout du costume Rakshande.",
+                "Guerrier : Ajout du costume Brut Lancelot.",
+                "Dompteuse : Ajout du costume Félin Nocturne.",
+                "Kunoichi : Ajout du costume Félin Nocturne.",
+                "Maehwa : Ajout du costume d'Adenophora.",
+                "Magicien : Ajout du costume Gavi Regan.",
+                "Musa : Ajout du costume Gavi Regan.",
+                "Berserker : Ajout du costume Gavi Regan.",
+                "Ninja : Ajout du costume Gavi Regan."
+            ],
+            "Évent": [
+                "Concours de pex pour le striker.",
+                "Lancement de l’événement de sceaux du Poings Furieux.",
+                "Lancement de l’événement de gain de Niveau du Poings furieux.",
+                "Événement d’augmentation de récupération de Pierres Noires.",
+                "Lancement d'une nouvelle saison de l'Aventure de l’Esprit Occulte."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-24-mai-2017.4330/",
+        "date": "2017-05-24"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Un Répertoire de Paramètres a été ajouté, vous permettant de sauvegarder et charger vos paramètres personnalisés.",
                 "Une fonction de capture d’écran haute résolution a été ajoutée dans les Paramètres du Jeu > Écran.",
                 "Vous pouvez choisir d’afficher ou non votre nom de famille ou de personnage dans la fenêtre de chat.",
