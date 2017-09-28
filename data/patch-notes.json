@@ -2,6 +2,299 @@
     {
         "categories": {
             "Système": [
+                "La méthode de distribution des fonds sociaux de guilde a été légèrement modifiée. Les guildes devront réclamer le fond social hebdomadaire depuis la fenêtre de guilde (G) si au moins 10 membres de la guilde sont connectés."
+            ],
+            "Classe": [
+                "Berserker : Corrections et améliorations sur les capacités (3) : Flux : Vague ancienne, Flux : Tir Multidirectionnel, Esquive.",
+                "Musa : Correction de la possibilité d’utilisation d’Esquive avec le Mushindo même après le blocage de la commande.",
+                "Maehwa : Corrections et améliorations sur les capacités (5) : Lame tenace I, Lever de lune I et II, Flocon de neige collant I et II, Piliers de givre, Exercice de pétale.",
+                "Ninja : Correction de l’application des dégâts de la compétence Vent Tranchant VI."
+            ],
+            "Mécanique": [
+                "Correction de l’application de dégâts de galère ou de voilier d’Epheria sur les monstres marins."
+            ],
+            "Cashshop": [
+                "Augmentation du prix de vente maximum des objets de perle sur le marché.",
+                "Ajout d'un nouveau set de meubles : Meubles de Baleine de Margoria."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-19-juillet-2017.31955/",
+        "date": "2017-07-19"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Le montant d'expérience gagné pour un personnage en dessous du niveau 61 a été ajusté pour faciliter la montée de niveau.",
+                "L’autorité du maitre de guilde peut maintenant être déléguée si le maitre actuel est absent (hors ligne) pendant 15 jours. (30 jours précédemment)",
+                "Correction de titres qui sont maintenant obtenables.",
+                "La perte de Karma en JcJ sauvage (PK) a été ajusté. La perte est basée sur la différences d'équipement entre les deux joueurs."
+            ],
+            "Classe": [
+                "Toutes les classes : Sprinter dure plus longtemps depuis une position inactive (hors position d’éveil et de combat).",
+                "Guerrier : Modification de la description d’Impact puissant I et II.",
+                "Sorcière : Corrections et améliorations sur les capacités (3) : Flux: Cri de l’obscurité, Violation, Festin du corbeau.",
+                "Valkyrie : L’effet de contre attaque est maintenant correctement appliqué à l’utilisation de la compétence Contre parfait.",
+                "Maehwa : Correction de l’application de l’effet de Récupération de PF en connectant les compétences Pas de neige et Stigmate.",
+                "Ninja : Légère réduction de la consommation de durabilité de toutes les compétences de Surado.",
+                "Ninja : Correction de la récupération trop rapide d’une cible après avoir chuté à la suite d’une compétence du Ninja.",
+                "Poings Furieux : Augmentation des PD magiques."
+            ],
+            "UI": [
+                "La fonction d’IU détachable est utilisable maintenant avec les Notes d'artisanat.",
+                "Ajout du bouton d’enregistrement d’objet à la fenêtre du marché.",
+                "La liste de modifications a été ajoutée à l’historique de Customisation.",
+                "Magasin de perle : Lors de l’achat d’objets, une fenêtre pop-up apparaitra si l’utilisateur possède un coupon disponible."
+            ],
+            "Objet": [
+                "De nouveaux matériaux peuvent être utilisés pour polir les pierre d'alchimie de Vie.",
+                "Des objets ont été adaptés pour profiter à toutes les classes.",
+                "De nouveaux objets permettent à présent de choisir entre Durabilité et Optimisation lors de l'enchantement.",
+                "L’éventail de prix des objets immédiatement disponibles à l’achat (Prix le plus bas) a été agrandit.",
+                "Ajout de costumes fabricables pour le Poings Furieux."
+            ],
+            "Cashshop": [
+                "Ajout des costumes Romance marine pour la majorité des classes."
+            ],
+            "Évent": [
+                "Grande ouverture du parc aquatique de Terrmian."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-12-juillet-2017.27439/",
+        "date": "2017-07-12"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Vous pouvez combiner cinq ingrédients en alchimie simple (Transformation).",
+                "Ajout de la fonction de recherche de groupe.",
+                "Ajout d’un nouveau PnJ forgeron au Poste des Helms, Coloduhas. Il n’offre que des réparations."
+            ],
+            "Classe": [
+                "Valkyrie : Corrections et améliorations sur les capacités (2) : Choc de lumière, Esquive avec la Lance."
+            ],
+            "Quête": [
+                "Suppression du tutoriel d’Heidel."
+            ],
+            "Mécanique": [
+                "Ajout d’une nouvelle option de customisation de voix de personnage."
+            ],
+            "UI": [
+                "Ajout d’une fenêtre de notification pour l’utilisation des coupons.",
+                "Ajout d’un nouveau guide vidéo «Contrôles de base et de combat». Vous pouvez la consulter depuis la liste des guides de la carte du monde."
+            ],
+            "Objet": [
+                "Tous les équipements avec des statistiques de précision augmentée ont une description identique aux plats, cristaux et élixirs. Tous les effets restent les même.",
+                "Le jukebox se trouve désormais dans la catégorie d’objet suivante : Intérieur > Accessoires d’intérieur > Jukebox."
+            ],
+            "Cashshop": [
+                "Ajout du pet \"Hibou Carmadun\".",
+                "Magicienne : Ajout du costume \"Saule Pleureur\".",
+                "Magicien : Ajout du costume \"Mémoire de Sage\".",
+                "Lame Sombre : Ajout du costume \"Marine d'Epheria\"."
+            ],
+            "Évent": [
+                "Mise en place de la suite des récompenses pour l'accomplissement de la \\\"croissance de l’arbre de la Kamasilve\\\".",
+                "Lancement de l’Événement de Biscuit de la chance Pit-a-Pat"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-5-juillet-2017.24881/",
+        "date": "2017-07-05"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Vous devez être inactif pour procéder à la fabrication de matériaux.",
+                "Vous devez être inactif pour rejoindre l’arène de combat.",
+                "Le filtre de zones de farming d’exp dans la carte mondiale affiche les PA recommandés pour la Garnison des Sausans et les Gardes de Shultz."
+            ],
+            "Classe": [
+                "Musa : Les cibles sont repoussées moins loin qu’avant lors de l’utilisation des compétences Floraison et Floraison : fantôme.",
+                "Maehwa : Corrections et améliorations sur les capacités (10) : Floraison, Floraison : fantôme, Pas de neige, Piliers de givre, Flux : Pointe de l'iceberg, Stigmate, Oppression, Coup de poignard de nuage, Lever de Lune.",
+                "Kunoichi : Corrections et améliorations sur les capacités (2) : Ruée lunaire, Disque lunaire.",
+                "Poings furieux : Corrections et améliorations sur les capacités (11) : Loup accroupi, Chute infernale, Descente de la Fureur, Kavancha illuminée, Flux : Vent latéral, Flux : Crâne Marteau, Vif-argent, Purgatoire, Animation plus fluide avec l'arme eveillée"
+            ],
+            "Quête": [
+                "Ajout d’une quête précédente aux quêtes de promotion de combat. Vous recevez cette quête à partir du niveau 55."
+            ],
+            "Mécanique": [
+                "Augmentation du montant d’EXP reçu par les monstres de la garnison des Sausans."
+            ],
+            "Objet": [
+                "Les guides d’effets sur tous les objets d’équipements ont été révisés et systématisés.",
+                "Diminution du temps de réapparition des monstres suivants : Garde des sausans, Soldat sausan robuste, Éclaireur sausan, Tireur d'élite sausan, Assassin sausan, Soldat sausan, Gardien sausan, Canonnier sausan, Camp de provisions des sausans et Tente des sausans.",
+                "La PA suggérée a été implémentée pour la Garnison des Sausans.",
+                "Le temps avant la disparition des Boss de monde passe de 2 heures à 30 minutes s'ils ne sont pas engagés par les joueurs."
+            ],
+            "Cashshop": [
+                "Ajout de nouveaux set de meubles pour les résidences."
+            ],
+            "Évent": [
+                "Mise en place des récompenses pour l'accomplissement de la \"croissance de l’arbre de la Kamasilve\".",
+                "Étant donné les problèmes récurrents de lag que les joueurs subissent, nous avons implémenté un bonus de 100% d'EXP.",
+                "Pour célébrer l'été, [Loyalties] Feu d'artifice de Garnier est maintenant disponible dans la boutique de Loyautés."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-28-juin-2017.21760/",
+        "date": "2017-06-28"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Sortie de l'éveil pour le Poings Furieux.",
+                "Mise à jour des bonus d'expériences journaliers que l'on peut récupérer via [Heure de Grind journalière!].",
+                "Une nouvelle arène de combat a été ajouté.",
+                "De nouveaux titres ont été ajoutés pour la chasse.",
+                "Le Karma perdu en engageant et en tuant un joueur a augmenté de 60 000 à 120 000."
+            ],
+            "Classe": [
+                "Valkyrie : La description de la compétence Châtiment a été modifié pour maintenant inclure «peut désormais être utilisée avec la Lance via le raccourci \"E\".",
+                "Ninja : Le problème concernant les chances de coup critique de Shuriken: Malice III qui ne correspondaient pas avec l’effet actuel a été corrigé.",
+                "Poings Furieux : Sortie de l'éveil. L'arme associée : «Kavancha» a été ajouté!"
+            ],
+            "Quête": [
+                "Ajout des quêtes d’éveil du Poings Furieux.",
+                "Neuf nouvelles quêtes ont été ajoutées au jeu."
+            ],
+            "Mécanique": [
+                "Les monstres dans les zones suivantes de Mediah ont été ajusté pour donner plus d’EXP et ont moins de points de vie : Mine de fer abandonnée, Planque des manes, Repaire des bandits errants, Poste des helms, Sanctuaire d'Elric.",
+                "Certaines régions de Mediah ne comporteront plus l’objet \"Cristal magique d'infinité\" dans la liste des objets obtenables. À la place, l’obtention des pierres noires (Armure) a été augmenté.",
+                "L’apparition de monstres dans la garnison des sausans a été modifié.",
+                "Certaines régions de Mediah ont eu une augmentation de l’obtention de l’armure de puissance herculéenne.",
+                "De nouveaux emplacements de gardes Shultz ont été ajoutés à la garnison des Sausans."
+            ],
+            "UI": [
+                "Jeter un objet peut maintenant uniquement se faire en utilisant l’icône de la poubelle dans la fenêtre de l’inventaire.",
+                "Un raccourci associé à la rotation a été ajoutée à l'interface utilisateur lorsque quelque chose est en train d’être installé ou mis en place dans une résidence."
+            ],
+            "Objet": [
+                "L’effet spécial de limite de poids -25 de toutes les armes principales Elsh a été supprimé.",
+                "La description des objets pour l'entrainement du coursier va maintenant montrer pour quel entrainement l'objet est utilisé."
+            ],
+            "Cashshop": [
+                "Poings furieux : Ajout des costumes éveillés."
+            ],
+            "Évent": [
+                "Pour célébrer la sortie de l’éveil du Poings Furieux, l’obtention des pierres noires a été augmenté.",
+                "Afin de célébrer l'achèvement de l’événement de la \"Croissance de l’arbre de la Kamasilve\", des événements additionnels pour récompenser les joueurs sont en préparations.",
+                "Fin du concours de niveau du Poings Furieux.",
+                "Fin des événements : Les Reliques Dorées, Festival des Roses, Croissance de l’arbre de la Kamasilve, L'aventure de l'esprit occulte."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-21-juin-2017.16972/",
+        "date": "2017-06-21"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Mise en place d'une taxe foncière de guilde et d'un fond de prestations de guilde.",
+                "Certains ajustements ont été réalisés pour agrandir l’espace disponible à l’intérieur de certaines résidences du territoire de Calpheon. Certaines maisons ont reçu un nouvel escalier et étage à explorer, un plafond élevé, un espace au sol plus grand et un placement de portes différent."
+            ],
+            "Classe": [
+                "Rôdeuse : Modification de la description de Vent pénétrant III et IV et Dague de protection.",
+                "Rôdeuse : Réduction des chances de réduction de durabilité pour certaines compétences.",
+                "Valkyrie : Modification de la description de Choc de bouclier.",
+                "Valkyrie : Légère augmentation des chances agrippement en utilisant la compétence Châtiment.",
+                "Valkyrie : Vous pouvez maintenant utiliser la compétence Châtiment sur un emplacement rapide en mode Lance.",
+                "Kunoichi : Réduction des chances de réduction de durabilité avec les compétences Danse macabre et Ruée lunaire."
+            ],
+            "Quête": [
+                "Modification des récompenses d’éveil pour toues les classes.",
+                "Mises à jour des quêtes a effectuer pour obtenir l'éveil des classes.",
+                "Ajout de nouvelles quêtes débloquées une fois l'éveil récupéré."
+            ],
+            "Objet": [
+                "Ajustement de certains schéma pour assembler des objets dans son inventaire.",
+                "De nouveaux objets peuvent maintenant être vendus aux PNJ.",
+                "Ajout de la vitesse de mouvement à la description des Vêtements de navigateur brodés d’argent.",
+                "Correction de l’application des dégâts de [Guilde] Tir enflammé, [Guilde] Tir empoisonné et [Guilde] Bombe aveuglante après modification de l’angle de caméra.",
+                "Modification de la description de Vêtements d'entraîneur de «augmentation d’EXP de compétence» pour augmentation de la maitrise de l’entrainement.",
+                "Ajout de l’objet \"Livre secret du Forgeron\" permettant de produire des conseils de Valks introduit précédemment."
+            ],
+            "Cashshop": [
+                "Retour temporaire des costumes d'Epheria pour une majorité des classes."
+            ],
+            "Évent": [
+                "L’événement «Croissance de l’arbre de la Kamasilve» a commencé !"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-14-juin-2017-mise-%C3%A0-jour.12934/",
+        "date": "2017-06-14"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Ajout d’une seconde au délai lors de la prise de capture d’écran."
+            ],
+            "Quête": [
+                "Ajout des quêtes d’avancement de vie et de certificat de transformation au menu des quêtes suggérées.",
+                "Certaines quêtes de Calpheon ont vu leurs conditions de démarrage modifiées."
+            ],
+            "Mécanique": [
+                "Correction des dégâts appliqués sur les galères lorsque les autres joueurs activent le JcJ forcé et attaquent celles-ci avec leur propriétaire à la barre.",
+                "Ajout d’un fonction vous permettent de taguer un joueur."
+            ],
+            "Objet": [
+                "L’EXP de dressage a été modifiée en EXP de monture dans la description des objets.",
+                "Les Vêtements de fermier sont maintenant vendus par les marchands produits de luxe."
+            ],
+            "Cashshop": [
+                "Ajout du Pack de bienvenue d’Amerigo dans le magasin de perles."
+            ],
+            "Évent": [
+                "Le calendrier d’assiduité du mois offre des sceaux de Shakatu et un pingouin compagnon.",
+                "L’événement des «Artéfacts Dorés» fait son retour."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-7-juin-2017.9763/",
+        "date": "2017-06-07"
+    },
+    {
+        "categories": {
+            "Système": [
+                "Ajout de 3 nouveaux canaux pour les joueurs Steam."
+            ],
+            "Classe": [
+                "Les classes suivantes ont eu des modifications sur la description de leur capacité : Guerrier, Sorcière, Ninja.<",
+                "Poings Furieux : Correction de l’application de réduction des PD lors de l’utilisation de la compétence Flux : griffe furtive en mode Esprit Combatif."
+            ],
+            "Quête": [
+                "Amélioration de la quête récurrente Collier de pouvoir magique scellé pour vous permettre de choisir votre terrain de chasse.",
+                "Modifications des restrictions / d'objectifs de quelques quêtes de Mediah et Valencia.",
+                "Ajout de 6 nouvelles quête au près de Tanzine, le palefrenier de Valencia.",
+                "Ajout d’une nouvelle connaissance : le Chercheur Centaure.",
+                "Changement d’une condition d’échange de l’Armure de Magie Faible en Jetons de Promesse auprès de Grandus, Vendeur d’armures à la ville de Calpheon."
+            ],
+            "Mécanique": [
+                "Les objets obtenables via l'aventure de l'esprit Occulte ont été en partie modifiés.",
+                "Les cartographes Schutgen de l’île de Ginburrey et Lecenin de l’île de Pujara peuvent maintenant réparer des objets.",
+                "Les bateaux de commerce navigant entre Epheria, Altinova et le Port intérieur d'Ancado ont été séparés en 2 lignes distinctes : Epheria ↔ Altinova et Altinova ↔ Port intérieur d'Ancado.",
+                "Amélioration des mouvements de la Baleine bleue pour un effet plus naturel.",
+                "Correction des moments où la Baleine bleue restait immobile au même endroit.",
+                "Augmentation du nombre d’attaques de la Baleine bleue.",
+                "Remplacement de certains Centaures par des Centaures Chercheurs entre les plaines de Taphtar et la porte de Barhan."
+            ],
+            "UI": [
+                "[Historique de customisation] Affinez la création de votre personnage avec les boutons annuler et refaire pour naviguer parmi vos changements récents.",
+                "Les défilements dans la fenêtre de Chat ont été améliorés pour être plus doux.",
+                "Correction de l’affichage des arbres bloquant la vue de votre jardin en plantant des cultures."
+            ],
+            "Objet": [
+                "La chasse permet à présent d'obtenir les objets : Tête d'élan géant empaillée, Tête de sanglier géant empaillée, Tête de loup géant empaillée."
+            ],
+            "Cashshop": [
+                "Ajout d'un nouveau set de meubles : Meubles de fleurs de printemps."
+            ],
+            "Évent": [
+                "Lancement du concours de capture d’écran du Festival des Roses.",
+                "Lancement du Tour du Monde avec Rulupee."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-31-mai-2017.6166/",
+        "date": "2017-05-31"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Ajout de 6 nouveaux canaux. 2 sont dédiés aux joueurs revenant ou nouveaux joueurs hors steam, 4 aux joueurs steam."
             ],
             "Classe": [
