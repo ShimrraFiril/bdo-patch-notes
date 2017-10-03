@@ -1,6 +1,56 @@
 [
     {
         "categories": {
+            "Système": [
+                "Un serveur JcJ Valencia6_PvP a été rajouté : Pas de perte de Karma si PK.",
+                "4 nouveaux serveurs ont été ajoutés au groupe de serveurs Kamasylvia.",
+                "Les animaux de compagnie seront désormais automatiquement cachés pendant les conquêtes et les guerres de géopoint."
+            ],
+            "Classe": [
+                "Berserker : Corrections et améliorations sur les capacités (3) : Folie destructrice, Broyeur de flamme.",
+                "Magicien : Désormais la compétence Terre de lave peut être utilisée normalement avec l’emplacement rapide lorsque le magicien est immobile.",
+                "Magicienne : Correction du problème de désynchronisation d’attaque avec Tett lors de l’utilisation de la compétence Tempête d’éclairs.",
+                "Ninja : Corrections et améliorations sur les capacités (25) : Poursuite ciblée, Griffe de renard, Lacération de l’ombre, Coup fatal, Ninjutsu : Explosion des ombres, Ninjutsu : Piétinement des ombres, Coupe-cheville, Découpe croissante I, Ninjutsu: Clone de l’ombre, Lune noire, Massacre de Boss, Décapitation des morts, Mesure Drastique, Décapitation soudaine, Flux : Termination, Tueur né en position de transition, Tueur né, Pluie de Lames, Danse d'épée corrompue, Double Tranchant.",
+                "Kunoichi : Corrections et améliorations sur les capacités (16) : Poursuite ciblée, Griffe de renard, Lacération de l’ombre, Coup fatal, Ninjutsu : Explosion des ombres, Ninjutsu : Piétinement des ombres, Coupe-cheville, Découpe croissante I, Ninjutsu: Clone de l’ombre, Lune noire, Découpe éclair, Coupe tendon.",
+                "Poings Furieux : Correction du problème où l’effet de la Super armure ne s’activait pas lors de l’utilisation de la compétence Suppression Massive avec le bras du personnage tendu en avant."
+            ],
+            "Mécanique": [
+                "Les joueurs recevront 30 points à chaque démarrage de la Crevasse Sauvage.",
+                "La durée maximale pour vaincre les boss des vagues 5, 10, 15 et 20 de la Crevasse Sauvage a été ajustée à 5 minutes. La prochaine vague débutera si les joueurs ne parviennent pas à vaincre le boss dans le temps imparti. Si le boss est vaincu, la prochaine vague démarrera 30 secondes après.",
+                "Les points de vie des Boss de la Crevasse Sauvage ont été augmentés.",
+                "Correction du problème où les objets installés étaient encore visibles après avoir vaincu le dernier boss de la Crevasse Sauvage.",
+                "Certains monstres du Sanctuaire d'Elric ont vu leur PV être réduits.",
+                "Nez Rouge et Bheg le Lâche (des quêtes [Boss] L'esprit occulte et l'éfrit géant / [Boss] Le capitaine éfrit de l'autel enragé) auront la portée de leurs attaques puissantes affichée à l’écran.",
+                "Certains objets ne sont plus récupérables sur les monstres de la Garde de Shultz.",
+                "Les chances d’obtenir des Livres interdits sur les monstres de la Garde de Shultz ont été augmentées.",
+                "Les PV des monstres de la Garde de Shultz ont été réduits et ils rapporteront davantage d’EXP de combat.",
+                "Correctif du problème où les joueurs avaient parfois du mal à voir le Spectre de Margoria lors des rencontres avec les Navires fantômes de Margoria."
+            ],
+            "UI": [
+                "Un bouton pour actions sociales a été ajouté dans le menu Échap.",
+                "Vous ne pouvez pas désigner plus d'un mot-clé pour chaque action sociale.",
+                "3 nouvelles actions sociales ont été ajoutées.",
+                "Dans la fenêtre de chat, le lien d’un objet aura une couleur associée à son rang d’objet."
+            ],
+            "Objet": [
+                "Les nourritures offrants des bonus à la compétence de vie de chasse ont été modifiés."
+            ],
+            "Cashshop": [
+                "Ajout de meuble sur le thème de Margoria.",
+                "Lame sombre : Ajout des différents costumes de Kibelius A.",
+                "Lame sombre : Ajout de sous-vêtements \"Le Vladian\"."
+            ],
+            "Évent": [
+                "Début de Oktoberfest : De nouvelles quêtes ont été ajoutées pour le Festival de la Bière.",
+                "Le Sac de costume de Patrigio sera inclus pour tous les Sets d'éveil.",
+                "Nouveaux calendrier de récompenses."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-13-septembre-2017.54940/",
+        "date": "2017-09-13"
+    },
+    {
+        "categories": {
             "Mécanique": [
                 "Vous pouvez maintenant rejoindre la Crevasse Sauvage depuis les serveurs 2, 4, 5 et 6 de chaque groupe de serveurs (excepté Olvia).",
                 "Acheter des objets de la Crevasse Sauvage avant que celle-ci commence n’est désormais plus possible.",
