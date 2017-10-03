@@ -2,6 +2,59 @@
     {
         "categories": {
             "Système": [
+                "Le client du jeu essayera de vous reconnecter plusieurs fois après avoir été déconnecté en raison d’une erreur de réseau inattendu."
+            ],
+            "Classe": [
+                "La consommation d’endurance avec les armes principales en combat et en dehors des classes suivantes a été ajusté : Guerrier, Rôdeuse, Sorcière, Berserker, Dompteuse, Musa, Maehwa, Valkyrie, Magicienne, Magicien, Kunoichi, Ninja.",
+                "Rôdeuse : Corrections et améliorations sur les capacités (4) : Vent découpant, Rage elfique, Flux : Rage Elfique, Vent gémissant.",
+                "Berserker : Corrections et améliorations sur les capacités (16) : Flux : Bagarre, Bravoure, Dévastation, Perce-lave I, Maelström, Entaille sauvage du vent, Folie destructrice, Assaut féroce.",
+                "Valkyrie : Corrections et améliorations sur les capacités (10) : Promptitude, Sprint désespéré, Coup de poignard éclair, Ultime : Coup de poignard éclair, Terre sainte, Flux : Décharge légère, Verdict : Lance de justice.",
+                "Magicien : Corrections et améliorations sur les capacités (2) : Terre de lave.",
+                "Magicienne : Correction du problème où la Magicienne s’arrêtait momentanément en utilisant le sort Inondation Toxique qui était différent de la version du Magicien.",
+                "Musa : Corrections et améliorations sur les capacités (3) : Entraînement tactique, Sous la ceinture, Fissure ardente.",
+                "Maehwa : Corrections et améliorations sur les capacités (2) : Entraînement tactique, Poursuite.",
+                "Ninja : Corrections et améliorations sur les capacités (3) : Poursuite ciblée, Ninjutsu: Dissimulation, Éclaireur de l’ombre.",
+                "Kunoichi : Corrections et améliorations sur les capacités (6) : Poursuite ciblée, Ninjutsu: Dissimulation, Éclaireur de l’ombre, Cercle de colère, Flux : Amertume, Danse du Saha, Danse macabre.",
+                "Lame Sombre : Corrections et améliorations sur les capacités (5) : Crépuscule, Enchainement : Crépuscule, Sprint du crépuscule, Chasse aux Esprits, Piège de Vedir, Ténèbres Bouleversantes, Flux : Bombardement, Brouillard de fumée.",
+                "Poings Furieux : Corrections et améliorations sur les capacités (5) : Flux : Destruction Ultime, Pas fulgurant, Esquive rapide, Flux : Destruction Ultime, Frappe Véritable, Vrille, Flux : Vent latéral, Chute, Assaut Féroce, Esprit Combatif, Hurlement du Loup."
+            ],
+            "Mécanique": [
+                "Correction du problème ou un personnage de niveau inférieur à 50 sur une monture pouvait se faire attaquer par un autre.",
+                "La Crevasse Sauvage est maintenant ouverte.",
+                "Correction du problème qui rendait impossible la construction d’un QG de terrain même avec deux géopoints de niveau 3.",
+                "Correction du problème où le bonus des compétences de vie pour le temps de réparation n’était pas appliqué pour la réparation des forts pendant les Conquêtes/Géoconflits.",
+                "Lorsque la cible bouge, L’attaque à distance de Kutum l'ancien touchera l’endroit ou se trouve la cible au lieu de la suivre.",
+                "Des épouvantails ont été ajouté à Velia, Heidel, Ville de Calpheon, Altinova et à la Ville de Valencia. Ces épouvantails ne peuvent pas prendre de dégâts des personnages."
+            ],
+            "UI": [
+                "Si vous appuyez sur Échappe avec l’entrepôt, l’inventaire de la monture et votre fenêtre d’inventaire tous ouverts en même temps, l’inventaire de la monture fermera en premier.",
+                "Le fait de faire un clic droit sur une Pierre de Con ouvrira votre fenêtre d’optimisation."
+            ],
+            "Objet": [
+                "La taille des lots d’enregistrement sur le Marché pour les objets suivants a été augmentée: Lingots, Cristaux (minerai), Gemme, Contreplaqués, Pierre d'optimisation, Peau/Fourrure/Plume ultime, Sangs, Huiles, certaines nourritures, objets de restauration de monture, Carte de voyageur",
+                "Les effets d’ensemble 4 et 6 des accessoires de Jarette ont été changé à 3 et 5."
+            ],
+            "Cashshop": [
+                "Ajout du costume de Jaguar d'onyx pour toutes les classes masculines.",
+                "Ajout du set de meuble de coquillage étoilé orné...",
+                "Ajout du set de meuble de de coeur printanier.",
+                "Ajout de l'objet Larmes du vent (perles et loyalties).",
+                "Ajout de costumes de 7 jours achetables contre des loyalties."
+            ],
+            "Évent": [
+                "Des bonus de perles et des objets supplémentaires seront donnés à ceux qui achèteront des coffrets de perles.",
+                "Coupons de réduction CS.",
+                "Des réductions dans la boutique de perles seront disponibles sur de nombreux objets.",
+                "Bonus pour l'achèvement de la Crevasse Sauvage.",
+                "L’événement des Pièces de la Famille Lauren a démarré."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-30-ao%C3%BBt-2017.48682/",
+        "date": "2017-08-30"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Les conditions d'achat et d'utilisation pour QG de terrain ont été modifiées.",
                 "L'onglet Collection du menu Seigneur affiche désormais bien le budget de sécurité.",
                 "Le temps de réparations et d'amélioration des forts pendant les guerres de sièges sera désormais diminué jusqu'à 50% en fonction des compétences de vie du joueur.",
