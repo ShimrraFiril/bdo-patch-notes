@@ -2,6 +2,58 @@
     {
         "categories": {
             "Système": [
+                "Les conditions d'achat et d'utilisation pour QG de terrain ont été modifiées.",
+                "L'onglet Collection du menu Seigneur affiche désormais bien le budget de sécurité.",
+                "Le temps de réparations et d'amélioration des forts pendant les guerres de sièges sera désormais diminué jusqu'à 50% en fonction des compétences de vie du joueur.",
+                "Correction du problème qui pouvait causer un retard dans le traitement du son du jeu.",
+                "Correction d'un problème qui fermait le client de jeu en cas de fermeture d'une notification après un transport de personnage.",
+                "Correction d'un problème qui fermait instantanément l'arène d'Arsha juste après le début de la partie.",
+                "Correction du problème des servantes qui donnaient accès à des dépôts en dehors de la région initialement prévue."
+            ],
+            "Classe": [
+                "Toutes les classes voient certaines compétences de niveau 1 apprises directement à la création de personnage.",
+                "Les classes suivantes ont vu leur niveau requis réduit pour l’obtention de certaines compétences : Sorcière, Berserker, Dompteuse, Magicien, Magicienne.",
+                "Sorcière : Le texte « Annulé lors des coups supplémentaires » a été ajouté à la suite de « Dégâts réduits en JcJ » dans la description de Flamme funèbre II.",
+                "Poings Furieux : Corrections et améliorations sur les capacités (3) : Pas éclair, Vrille, Pas éclair, Esquive rapide."
+            ],
+            "Quête": [
+                "De nouvelles quêtes de taverne sont ajoutées à la zone d'Altinova."
+            ],
+            "Mécanique": [
+                "Les portées max. des canons du voilier d'Epheria et de la [Guilde] Galère ont été augmentées.",
+                "Les caractéristiques de certains monstres de Mediah ont été ajustées.",
+                "Tabou le gérant d'entrepôt a été déplacé vers l'entrée du désert sur le côté du bazar du grain de sable."
+            ],
+            "UI": [
+                "Dans les détails d'emplacements de monstres de la mine de fer abandonnée, de la planque des manes, du repair des bandits errants, du poste des helms et du sanctuaire d'Elric, le niveau conseillé est remplacé par les PA conseillés.",
+                "Un message d'erreur signale maintenant l'échec d'un changement de serveur.",
+                "Ajout d'une icône d'informations sur le système de JcJ sur l'écran de mort."
+            ],
+            "Objet": [
+                "Un bonus Vitesse de mouvement +2 a été ajouté au Costume de Soldat de Serendia débutant.",
+                "Un ensemble d'accessoires Œil d'Asula cramoisi a été ajouté."
+            ],
+            "Cashshop": [
+                "Des boutons Terminer maintenant sont ajoutés pour la fabrication de maison.",
+                "Des boutons Terminer maintenant sont ajoutés pour la promotion d'ouvriers.",
+                "Ajout du pet \"Tortue\".",
+                "Poing Furieux : Ajout du costume \"Jaguar d'onyx\".",
+                "Ajout du set \"Fisto\" pour le bateau de pêche."
+            ],
+            "Évent": [
+                "Mise en place de 3 calendriers de récompenses : journalier * 2 et un pour les membres de guildes moyennes ou plus grande.",
+                "L’événement ruée vers l'or a commencé.",
+                "L'événement Voyage de Rulupee saison 2.",
+                "Le jeu de la mailloche du roi palourde a été ajouté au parc aquatique de Terrmian.",
+                "Un courant anormal a été détecté dans le parc aquatique de Terrmian amenant avec lui de nouveaux poissons rares dans ses eaux!"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-16-ao%C3%BBt-2017.43799/",
+        "date": "2017-08-16"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Les maintenances se feront dorénavant toutes les 2 semaines au lieu de toutes les semaines.",
                 "Correction des problèmes de réservation à l’Arène d’Arsha.",
                 "Correction du problème causant la baisse de Karma lorsqu’un joueur attaque et détruit des forts et postes de commande durant les guerres de conquête et de géopoint."
@@ -48,7 +100,7 @@
                 "Magicienne : Corrections et améliorations sur les capacités (3) : Zone de protection et invocations.",
                 "Ninja : Il est plus facile de passer en mode Surado en utilisant la compétence Entaille obscure.",
                 "Kunoichi : Corrections et améliorations sur les capacités (15) : Entaille obscure, Flux : Sprint du Clair de Lune, Flux : Cercle lunaire, Perfectionnement Saharyun, Danse Macabre, Cercle de colère, Toupie de sang I et II, Soif de sang : Saharyun, Disque lunaire, Décharge lunaire I et II, Miroir, Ruée Lunaire, Danse du Saha.",
-                "Kunoichi : Corrections et améliorations sur les capacités (24) : Brise-Crâne, Bête sauvage, Chute, Chute infernale, Assaut Féroce, Frappe terrestre, Pas fulgurant, Pas silencieux, Flux : Crocs Féroces, Combat incessant, Purgatoire, Frappe Véritable, Vrille, Combinaison explosive, Flux : Vent latéral, Echo, Suppression Massive, Triple coup de pied volant IV"
+                "Poings Furieux : Corrections et améliorations sur les capacités (24) : Brise-Crâne, Bête sauvage, Chute, Chute infernale, Assaut Féroce, Frappe terrestre, Pas fulgurant, Pas silencieux, Flux : Crocs Féroces, Combat incessant, Purgatoire, Frappe Véritable, Vrille, Combinaison explosive, Flux : Vent latéral, Echo, Suppression Massive, Triple coup de pied volant IV"
             ],
             "UI": [
                 "Ajout du bouton de black Desert Online TV au menu Échap. Cliquez sur ce bouton pour ouvrir une fenêtre internet et afficher la page internet BDO TV."
