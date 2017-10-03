@@ -2,6 +2,40 @@
     {
         "categories": {
             "Système": [
+                "Les maintenances se feront dorénavant toutes les 2 semaines au lieu de toutes les semaines.",
+                "Correction des problèmes de réservation à l’Arène d’Arsha.",
+                "Correction du problème causant la baisse de Karma lorsqu’un joueur attaque et détruit des forts et postes de commande durant les guerres de conquête et de géopoint."
+            ],
+            "Classe": [
+                "Ninja : Correction de l’application des effets de la compétence Poursuite ciblée lors de l’utilisation de Pas fantôme juste après celle-ci.",
+                "Kunoichi : Correction de l’application des effets de la compétence Poursuite ciblée lors de l’utilisation de Pas fantôme juste après celle-ci.",
+                "Poings Furieux : Ajustement de l’effet de la compétence Glissement de terrain pour correspondre à sa portée. Ajustement des effets de la compétence Coup de pied perçant."
+            ],
+            "Mécanique": [
+                "Les personnages de niveau inférieur à 50 ne peuvent pas tirer au canon de la [Guilde] Galère et du Voilier d’Epheria."
+            ],
+            "UI": [
+                "La fenêtre d’équipement montre maintenant la PA, la PA de l’arme d’éveil et la PD dans son guide."
+            ],
+            "Objet": [
+                "Amélioration des pierres noires pures afin que les bonus d’objets ne disparaissent pas après la mort d’un personnage."
+            ],
+            "Cashshop": [
+                "Ajout du costume de Terrminé pour les chevaux.",
+                "Ajout du costume de Terrminé pour les wagons.",
+                "Ajout du jukebox aux couleur de Terrmian."
+            ],
+            "Évent": [
+                "L’Aventure de l’Esprit occulte fait son retour.",
+                "Arrivée de nouvelles quêtes événementielles au Parc aquatique de Terrmian !"
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-2-ao%C3%BBt-2017.37869/",
+        "date": "2017-08-02"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Ouverture de l’arène d’Arsha : Arène que l'on peut réserver et dont les règles peuvent être ajustée par la guilde qui l'a réservé.",
                 "Ajout du Chat vocal de guilde.",
                 "Changement d'appellation des taxes de guilde.",
