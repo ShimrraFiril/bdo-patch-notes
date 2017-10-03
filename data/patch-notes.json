@@ -2,6 +2,43 @@
     {
         "categories": {
             "Système": [
+                "Ouverture de l’arène d’Arsha : Arène que l'on peut réserver et dont les règles peuvent être ajustée par la guilde qui l'a réservé.",
+                "Ajout du Chat vocal de guilde.",
+                "Changement d'appellation des taxes de guilde.",
+                "Les officiers de guilde peuvent maintenant récupérer les fonds de soutien de guilde.",
+                "Maintenant, les joueurs doivent se connecter au client avant de recevoir les mises à jour. Ouvrir le client ne téléchargera plus les mises à jour automatiquement."
+            ],
+            "Classe": [
+                "Berserker : Ajout du texte «Utilisable durant la compétence Flux : Vague ancienne» à la description de la compétence Flux: Tir Multidirectionnel.",
+                "Magicien : Corrections et améliorations sur les capacités (3) : Zone de protection et invocations.",
+                "Magicienne : Corrections et améliorations sur les capacités (3) : Zone de protection et invocations.",
+                "Ninja : Il est plus facile de passer en mode Surado en utilisant la compétence Entaille obscure.",
+                "Kunoichi : Corrections et améliorations sur les capacités (15) : Entaille obscure, Flux : Sprint du Clair de Lune, Flux : Cercle lunaire, Perfectionnement Saharyun, Danse Macabre, Cercle de colère, Toupie de sang I et II, Soif de sang : Saharyun, Disque lunaire, Décharge lunaire I et II, Miroir, Ruée Lunaire, Danse du Saha.",
+                "Kunoichi : Corrections et améliorations sur les capacités (24) : Brise-Crâne, Bête sauvage, Chute, Chute infernale, Assaut Féroce, Frappe terrestre, Pas fulgurant, Pas silencieux, Flux : Crocs Féroces, Combat incessant, Purgatoire, Frappe Véritable, Vrille, Combinaison explosive, Flux : Vent latéral, Echo, Suppression Massive, Triple coup de pied volant IV"
+            ],
+            "UI": [
+                "Ajout du bouton de black Desert Online TV au menu Échap. Cliquez sur ce bouton pour ouvrir une fenêtre internet et afficher la page internet BDO TV."
+            ],
+            "Objet": [
+                "Correction de l’application du bonus de l’Élixir Weenie lors de l’utilisation d’Élixir de Weenie déferlant."
+            ],
+            "Cashshop": [
+                "Ajout de [Événement] Pack de Canicule.",
+                "Ajout du costume de Terrminé pour toutes les classes féminines.",
+                "Lame Sombre : Ajout du costume Kibelius.",
+                "Poings Furieux : Ajout du costume Karlstein.",
+                "Tous les joueurs ont reçu un coupon de réduction de 20% valable jusqu'au 7 août 2017."
+            ],
+            "Évent": [
+                "[Événement] Fragments de Cron peuvent être obtenus partout dans BDO."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-26-juillet-2017.34993/",
+        "date": "2017-07-26"
+    },
+    {
+        "categories": {
+            "Système": [
                 "La méthode de distribution des fonds sociaux de guilde a été légèrement modifiée. Les guildes devront réclamer le fond social hebdomadaire depuis la fenêtre de guilde (G) si au moins 10 membres de la guilde sont connectés."
             ],
             "Classe": [
