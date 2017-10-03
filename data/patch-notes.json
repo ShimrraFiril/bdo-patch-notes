@@ -1,6 +1,23 @@
 [
     {
         "categories": {
+            "Mécanique": [
+                "Vous pouvez maintenant rejoindre la Crevasse Sauvage depuis les serveurs 2, 4, 5 et 6 de chaque groupe de serveurs (excepté Olvia).",
+                "Acheter des objets de la Crevasse Sauvage avant que celle-ci commence n’est désormais plus possible.",
+                "Lorsque les aventuriers entre de nouveau dans la Crevasse Sauvage après l’avoir quitté en plein milieu, les points seront désormais réinitialisés à 0.",
+                "Les points de la Crevasse Sauvage seront transférables qu’après la vague 4, dernière vague où les aventuriers peuvent rejoindre la Crevasse sauvage.",
+                "Tous les objets concernant la Crevasse Sauvage doivent être supprimés de votre équipement et de votre inventaire avant de rejoindre à nouveau un salon."
+            ],
+            "Objet": [
+                "Le fait de pouvoir stocker les objets de la Crevasse Sauvage dans le sac d’équipement de Morco afin de les réutiliser en retournant dans celle-ci a été corrigé.",
+                "Correction du prix au marché de la Tortue issue de la boutique de perles."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/patch-correctif-1er-septembre-2017.49562/",
+        "date": "2017-09-01"
+    },
+    {
+        "categories": {
             "Système": [
                 "Le client du jeu essayera de vous reconnecter plusieurs fois après avoir été déconnecté en raison d’une erreur de réseau inattendu."
             ],
