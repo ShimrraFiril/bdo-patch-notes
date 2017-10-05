@@ -2,6 +2,102 @@
     {
         "categories": {
             "Système": [
+                "La partie 1 de Kamasylvia est sortie. Nouveaux géopoints, connaissances, pnj, etc.",
+                "Sortie de l'Autel de la Formation.",
+                "Un nouveau cheval (T9), Arduanatt, foule les terres de Kamasylvia.",
+                "Le patch note décrit en détail le système de \"Destrier\".",
+                "De nouveaux titrés liés aux monstres et aux quêtes de Kamasylvia ont été ajoutés.",
+                "Les poissons natifs de Kamasylvia ont été ajoutés au guide de pêche.",
+                "La recette du Fourrage de Stonetail a été ajoutée au système de cuisine simple.",
+                "La recette de Pierre Originelle de Krogdalo a été ajoutée au système d’alchimie simple.",
+                "La recette de Souffle de la forêt a été ajoutée au système d’alchimie simple.",
+                "L’Atelier d’équipement équin a été ajouté à la maison N° 3 du Ranch de Queue-de-Pierre.",
+                "Les «Options d’optimisation» ont été ajoutés dans l’onglet «Performances» dans les paramètres du jeu.",
+                "Une musique d’arrière-plan a été ajouté au territoire de Kamasylvia.",
+                "De nouvelles voix ainsi que des chants de PNJ ont étés ajoutés au territoire de Kamasylvia.",
+                "Un système de réservation a été ajouté à la Crevasse Sauvage.",
+                "De nouvelles recettes ont été ajoutées au système de cuisine simple.",
+                "L’entrainement de Destrier a été ajouté à la catégorie \"monture\" du marché.",
+                "Vous pouvez utiliser l’Alchimie simple pour combiner une Pierre d'alchimie avec de la Poudre de pierre noire afin d’obtenir une Pierre noire (armure)."
+            ],
+            "Classe": [
+                "Les classes suivantes ont subi des réajustements sur la consommation de mana/énergie/etc pour une partie de leur capacité de base : Guerrier, Rôdeuse, Sorcière, Berserker, Dompteuse, Valkyrie, Magicien, Magicienne, Musa, Maehwa, Ninja, Kunoichi, Lame Sombre, Poings Furieux.",
+                "Berserker : Le texte mentionnant l’absence d’effet de fauchage en JCJ a été enlevé de la description de Furie tremblante.",
+                "Magicienne : Correction du problème où la compétence Flux : Rage de Tett s’activait doucement lorsque les cibles étaient dans les alentours.",
+                "Maehwa : Correction du problème du temps de recharge de la compétence Flocon de neige collant quand la compétence était utilisée après Lame tenace.",
+                "Ninja : Utiliser la compétence Balayage après Ninjutsu : Piétinement des ombres est devenu plus rapide est plus facile.",
+                "Kunoichi : Utiliser la compétence Balayage après Ninjutsu : Piétinement des ombres est devenu plus rapide est plus facile.",
+                "Poings Furieux : Ajout de la ligne «Raccourci disponible avec le gantelet» dans la description des compétences Brise-Crâne et Chute infernale."
+            ],
+            "Quête": [
+                "Guilde : [Soumission de boss] Gardien des Ruines Mirumoks.",
+                "De nouvelles quêtes relatives au Territoire de Kamasylvia ont été ajoutées."
+            ],
+            "Mécanique": [
+                "Un élément aléatoire a été ajouté à la Crevasse Sauvage.",
+                "De nouveaux monstres feront leur apparition à Kamasylvia.",
+                "Un boss de raid de guilde, le Gardien Mirumok Offin, sera présent à Kamasylvia.",
+                "Vous pouvez désormais attraper des poissons rares/gros dans la mer non loin de Velia.",
+                "Sur un serveur JcJ, le message système prévenant d’une perte de Karma ne sera plus affiché lors d’attaques contre les manifestants de Calpehon ou contre les chevaux sauvages.",
+                "Correction de problèmes de ralentissements concernant des objets ou personnages tels que le Bandit errant ou encore l’Autel d'obsidienne.",
+                "Les effets positifs des animaux de compagnie ont légèrement été modifiés. Les effets seront actifs même si la jauge de faim est vide. Cependant l’animal ne récupérera pas d’objets dans ce cas là."
+            ],
+            "UI": [
+                "Vous pouvez désormais changer l’ordre des animaux de compagnie lorsqu’ils sont rangés.",
+                "Il est désormais possible de rechercher les Chevaux oniriques ainsi que leurs compétences dans le marché équin.",
+                "L’entrainement de Destrier a été ajouté à la catégorie \"monture\" du marché.",
+                "La fenêtre d’IU d’entraînement de Destrier a été modifiée.",
+                "Il est désormais possible de fermer des fenêtres avec la touche Échap tout en pêchant.",
+                "Les servantes invoquées ne seront plus affichées sur la mini-carte.",
+                "La fonction publicité de guilde a été ajoutée à la fenêtre de Guilde (G).",
+                "L’option \"Voir classement\" a été ajoutée aux Options > Paramètres du jeu.",
+                "Les icônes des liens d’objet du chat afficheront dorénavant les icônes des objets mentionnés.",
+                "La fenêtre Classement boss a été ajoutée au menu Échap."
+            ],
+            "Objet": [
+                "Un nouveau casque de boss a été ajouté, le casque du griffon.",
+                "Un nouvel accessoire a été ajouté, Accessoire d'oreille Narc.",
+                "De nouveaux équipements ont été ajoutés : Cristal d'esprit de Valtarra, Boucle d'oreille d'Anbelif, Feuille péridot.",
+                "Les pierres d’esprit ont été ajoutés. Les pierres d’esprit sont des pierres d’alchimie qui se consument.",
+                "De nouveaux élixirs ont été ajoutés : Élixir du Griffon, Élixir puissant du Griffon.",
+                "Les objets d’entrainement de Destrier ont été ajoutés.",
+                "18 nouveaux objets de commerce ont été ajoutés au territoire de Kamasylvia.",
+                "Des objets de qualité bleue ont été ajoutés pour les chevaux et les chameaux.",
+                "Des objets de qualité bleue ont été ajoutés pour les Éléphants miniatures.",
+                "Un nouvel objet, Furie de la forêt, a été ajouté.",
+                "Un nouvel objet, éclat magique, a été ajouté.",
+                "De nouveaux cristaux ont été ajoutés.",
+                "Ajout du texte «Récolte +1» qui manquait aux Vêtements de fermier.",
+                "Certains objets ont été corrigés afin qu’ils puissent être vendus au magasin de guilde.",
+                "La chance d’optimisation des objets suivants a augmenté de façon significative : Collier de pouvoir magique scellé, Collier de sort scellé, Ceinture du Destructeur Helm.",
+                "Les objets suivants qui s’obtiennent normalement avec des points de contribution ne peuvent plus être loués.",
+                "L’objet [Guilde] Larmes du vent a été ajouté. Il permet de faire revivre les montures de guilde.",
+                "Davantage de restrictions ont été ajoutées concernant la Boussole améliorée. Elle ne peut désormais plus fonctionner sur des serveurs où un géoconflit/guerre de conquête a lieu. Si votre personnage/monture transporte un objet de commerce, la boussole ne fonctionnera pas.",
+                "Les Amplificateurs mutants, obtenables dans la Crevasse Sauvage, peuvent être échangés contre des accessoires auprès de Gorgath, à Calpheon."
+            ],
+            "Cashshop": [
+                "Le Sac de costumes de Patrigio a été supprimé de tous les sets d’éveil.",
+                "Ajout de 2 nouveaux pack.",
+                "Ajout du pet \"Jeune Griffon\".",
+                "Ajout du nouveau set équin \"Krenvatz\".",
+                "Ajout du costime \"Aigle couronné\" pour la majorité des classes."
+            ],
+            "Évent": [
+                "L’événement \"Alchimistes Kamasylviens\" a été ajouté.",
+                "EXP de monture +10% pendant la période de l’événement.",
+                "Événement de la pousse du jeune arbre Kamasylve.",
+                "Événement \"En route pour le coffre au trésor doré !\".",
+                "L’aventure de l'Esprit occulte est de retour.",
+                "2 concours de captures d'écrans et de fan-arts lié à Kamasylvia.",
+                "Récompense pour les joueurs absent depuis plus de 30 jours jusqu'au 18 octobre."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/notes-de-patch-27-septembre-2017.65596/",
+        "date": "2017-09-27"
+    },
+    {
+        "categories": {
+            "Système": [
                 "Un serveur JcJ Valencia6_PvP a été rajouté : Pas de perte de Karma si PK.",
                 "4 nouveaux serveurs ont été ajoutés au groupe de serveurs Kamasylvia.",
                 "Les animaux de compagnie seront désormais automatiquement cachés pendant les conquêtes et les guerres de géopoint."
