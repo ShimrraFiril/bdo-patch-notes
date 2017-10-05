@@ -74,6 +74,11 @@
             refreshDisplayPatchNotes();
         });
 
+        $('#switch-light').click(function (e) {
+            e.preventDefault();
+            $('body').toggleClass('theme-dark');
+        });
+
         /**************************************************************/
         /**   Event pour outil de génération de patch note -> json   **/
         /**************************************************************/

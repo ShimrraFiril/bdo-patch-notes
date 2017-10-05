@@ -30,6 +30,13 @@ body > nav.navbar {
     cursor: pointer;
 }
 
+#switch-light {
+    background-image: url('../img/switch_black.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
 .modal-header .close {
     position: absolute;
     right: 14px;
@@ -61,4 +68,35 @@ a.add-input:hover {
         border-right-width: 0 !important;
         border-bottom-width: 1px !important;
     }
+}
+
+body.theme-dark {
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+body.theme-dark nav,
+body.theme-dark .panel,
+body.theme-dark a,
+body.theme-dark .dropdown-menu,
+body.theme-dark #generate-data,
+body.theme-dark input {
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+body.theme-dark a:hover {
+    color: #c1e0ff !important;
+}
+
+body.theme-dark #filters .active a {
+    background-color: #1e558c !important;
+}
+
+body.theme-dark #switch-light {
+    background-image: url('../img/switch_light.svg');
+}
+
+body.theme-dark #patch-notes a {
+    text-decoration: underline;
 }
