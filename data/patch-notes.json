@@ -1,6 +1,21 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Du 18/10 au 25/10 : [Événement] décoration de pot de fleur de Kamasylve / 3 par famille pour 1 loyalties.",
+                "Du 18/10 au 25/10 : [Événement] Bénédiction de Kamasylve (7 jours) / 1 par famille pour 1 loyalties.",
+                "Du 18/10 au 25/10 : [Événement] Livre de Combat Scellé (7 jours) / 1 par famille pour 1 loyalties.",
+                "Les pets dédiés à l'événement d'Halloween font leur retour (ceux de l'année dernière et des nouveaux).",
+                "Les sets de meubles dédiés à l'événement d'Halloween font leur retour.",
+                "Deux nouveaux costumes pour homme font leur apparition pour la durée de l'événement d'Halloween : Costume de chevalier pourpre (A & B)",
+                "Deux nouveaux costumes pour femme font leur apparition pour la durée de l'événement d'Halloween : Reine démoniaque et Reine angélique."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/mise-%C3%A0-jour-de-la-boutique-de-perles-18-octobre-2017.75872/",
+        "date": "2017-10-18"
+    },
+    {
+        "categories": {
             "Système": [
                 "Correction du problème empêchant l’application de la pénalité de poids lors de la vente d’objets.",
                 "Les prérequis d’activation des interactions sociales (emotes) ont été ajoutés à la fenêtre d’Actions Sociales.",
@@ -68,7 +83,7 @@
                 "Ajout de 6 quêtes supplémentaires pour l'événement d’Halloween.",
                 "Les [Événement] Pièces d'Halloween peuvent être obtenus après un certains temps de connexion et échangées auprès de la sorcière blanche Gueldia à la ferme d'Alejandro.",
                 "Ajout d'autres objets annexes à l’événement (cf patch notes pour plus d'informations).",
-                "L’événement consécutif à la croissance du jeune arbre Kamasylve a commencé : Les chances d’obtenir une Pierre noire en butin seront augmentées pendant cette période. De plus, il est possible d'acheter contre des loyalties les objets suivants : [Événement] décoration de pot de fleur de Kamasylve / 3 par famille, [Événement] Bénédiction de Kamasylve (7 jours) / 1 par famille, [Événement] Livre de Combat Scellé (7 jours) / 1 par famille."
+                "L’événement consécutif à la croissance du jeune arbre Kamasylve a commencé : Les chances d’obtenir une Pierre noire en butin seront augmentées pendant cette période."
             ]
         },
         "link": "https://www.blackdesertonline.com/news/view/512",
