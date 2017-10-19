@@ -1,6 +1,81 @@
 [
     {
         "categories": {
+            "Système": [
+                "Correction du problème empêchant l’application de la pénalité de poids lors de la vente d’objets.",
+                "Les prérequis d’activation des interactions sociales (emotes) ont été ajoutés à la fenêtre d’Actions Sociales.",
+                "Les personnages montant un [Guilde] Éléphant ne pourront pas avoir recourt au JcJ Forcé.",
+                "Accél. fulgurante ou V: Accél. fulgurante avec Arduanatt peut désormais être suivi d’un Double saut sans difficultés.",
+                "Les chances d’apprendre des compétences ont été augmentées pour les chevaux du Tiers 1 à 5.",
+                "Afin d’empêcher des abus, être inactif à la Crevasse Sauvage sans attaquer ou installer d’objets de siège aura pour conséquence d’être automatiquement exclu de la partie.",
+                "Les informations sur les monstres de Kamasylvia ont été ajoutées sur la carte du monde.",
+                "Correction du problème où il était possible de construire des forteresses à l’Avant-poste de Sarma.",
+                "Les bonus qui peuvent être achetés dans les villas ont été modifiés. Le prix du parchemin de villa a été modifié en conséquence, il coûte à présent : Lingot d'or de 100 G X1."
+            ],
+            "Classe": [
+                "Des effets d'Halloween ont été ajouté aux compétences éveillées ainsi qu'aux costumes et animaux de compagnie d'Halloween.",
+                "Berserker : Corrections et améliorations sur les capacités (10) : Dévastation, Soulevé de terre, Flux: Désorganisation générale, Frappe de Titan, Flux : Vague ancienne, Flux : Partage des terres, Flux : Bagarre, Dynamitage.",
+                "Musa : Corrections et améliorations sur les capacités (4) : Tempête grondante, Broyeur de croûte, Fissure ardente, Tornade.",
+                "Ninja : Les dégâts en PVE de la compétence Flux : Termination ont été augmentés. (4e coup)",
+                "Poings Furieux : Être à 125 % (ou plus) de la limite de poids empêchera dorénavant les compétences Pas fulgurant, Esquive rapide, Vif-argent d’être activées.",
+                "La Troupe Garnier des villes principales ne fera plus son apparition."
+            ],
+            "Mécanique": [
+                "[Événement] Caisse de bière a été retirée de la liste des Livraisons de cuisine impériale. (Événement terminé).",
+                "Le boss Isabelle apparaîtra à la Ferme Costa pendant la durée de l’événement d’Halloween.",
+                "L’effet de compétence d’Halloween a été ajouté au monstre Spectre de la Mort.",
+                "Le Temple des nagas du désert à Valencia a été retravaillé.",
+                "La Vallée de Titium à Valencia a été retravaillée.",
+                "Vaincre les monstres de la Fabrique de soufre de Roud donnera désormais différents types de Pierre noire.",
+                "Certains monstres présents sur les routes de navigation automatique de Kamasylvia ont vu leur emplacement ajusté.",
+                "Les monstres de Calpheon (cf patch notes pour les zones) ont une chance de donner en butin un accessoire de l’ensemble d’Esprit tréant.",
+                "Vous pouvez obtenir l’ensemble perdu de Loure en terrassant les monstres de Calpheon (cf patch notes pour les zones).",
+                "Une nouvelle série de quêtes a été ajoutée : Cadeau de l’esprit occulte II. La récompense est un bonus de 24 de 200 LT à la limite max. Le bonus s'active directement lorsque l'on rend la quête.",
+                "La quête Apporter de l'eau, indiquera désormais la bonne destination.",
+                "L’EXP de compétence a été ajouté aux récompenses d’accomplissement de certaines quêtes.",
+                "11 nouvelles quêtes journalières ont été ajoutées à Valencia.",
+                "Il est désormais possible d’obtenir des connaissances à propos des ferricas et ferrinas en discutant avec Varielle, palefrenier au Vieil arbre de la sagesse.",
+                "L’action sociale « Dégustation de vin » peut dorénavant être débloquée en accomplissant les quêtes \"Début des affaires\" OU \"Que puis-je faire ?\".",
+                "Les parchemins d’invocation de boss brilleront dorénavant dans l’inventaire pendant la progression de la quête principale (Niv. 1 à 50) afin que les joueurs puissent facilement les utiliser pour vaincre les boss de quêtes.",
+                "Les quêtes de chasse de Kamasylvia font désormais partie de la catégorie des quêtes Coop.",
+                "La Vallée de Titium à Valencia n’est désormais plus une région déserte. Vous pouvez voir où vous vous trouvez sur la minicarte et les maladies du désert ne seront pas effectives."
+            ],
+            "UI": [
+                "Un bouton dans l'inventaire apparaît à côté de la limite de poids pour ouvrir l'interface d'achat de poids du CS en version simplifiée (Non mentionné dans le patch notes).",
+                "Les tailles des boutons et leur emplacement ont été ajustés dans la fenêtre du mode \"Modifier l'interface\".",
+                "Équiper un mousquet affichera parfois une alerte prévenant du niveau de durabilité des munitions/balles.",
+                "La taille de la fenêtre s’adaptera à la longueur des descriptions des actions sociales.",
+                "Une infobulle a été ajoutée pour le bouton \"Passer l'animation et améliorer instantanément\"."
+            ],
+            "Objet": [
+                "Un effet été ajouté à l’ensemble d’anneaux royaux de Valencia.",
+                "Le rang de l’objet Fragment de mémoire a été modifié. (Bleu→Blanc)",
+                "L’ensemble d’accessoires de Tréant des racines a été ajouté. Il peut être acheté auprès de Grandus le vendeur d’armures de la ville de Calpheon.",
+                "Un nouvel ensemble d’équipement a été ajouté : Armure ultime de Dobart. Il peut être acheté auprès de Grandus le vendeur d’armures de la ville de Calpheon.",
+                "Patrigio ne vendra plus de Pierre noire (arme) x1 et de Pierre noire (armure) x1 dans sa Boutique secrète.",
+                "Six nouveaux outils de récolte ont été ajoutés aux boutiques générales d'outils. Précision non mentionnée dans le patch : 30 de durabilité pour un prix de 50 000 / outil.",
+                "Un nouvel ensemble d’équipement a été ajouté : Équipement perdu de Loure.  Les équipements suivants peuvent être obtenus en étripant des monstres à Calpheon. Ils sont liés à la Famille et ne peuvent être optimisés.",
+                "Les armes du Carnage Ultime de Delphad Castillion ont été ajoutées.",
+                "La Pierre noire (armure) peut être dorénavant obtenue avec l’Alchimie simple en transformant : Fragment de pierre d'alchimie et Poudre de pierre noire."
+            ],
+            "Cashshop": [
+                "Des tenues et animaux de compagnie d’Halloween ont été ajoutées."
+            ],
+            "Évent": [
+                "L’événement d’Halloween a commencé (décorations dans les villes, lune rouge la nuit, thème musical modifié).",
+                "Mise en place de deux PNJ : Gueldia la Sorcière Blanche et Isabella la Sorcière Noire.",
+                "Gueldia la Sorcière Blanche s’est installée à la Ferme Alejandro. Elle a une « petite » faveur à demander aux aventurier : vaincre et capturer Isabella, la Sorcière Noire.",
+                "Ajout de 6 quêtes supplémentaires pour l'événement d’Halloween.",
+                "Les [Événement] Pièces d'Halloween peuvent être obtenus après un certains temps de connexion et échangées auprès de la sorcière blanche Gueldia à la ferme d'Alejandro.",
+                "Ajout d'autres objets annexes à l’événement (cf patch notes pour plus d'informations).",
+                "L’événement consécutif à la croissance du jeune arbre Kamasylve a commencé : Les chances d’obtenir une Pierre noire en butin seront augmentées pendant cette période. De plus, il est possible d'acheter contre des loyalties les objets suivants : [Événement] décoration de pot de fleur de Kamasylve / 3 par famille, [Événement] Bénédiction de Kamasylve (7 jours) / 1 par famille, [Événement] Livre de Combat Scellé (7 jours) / 1 par famille."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/512",
+        "date": "2017-10-18"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Remise en place des costumes saisonniers d'Halloween de l'année précédente pour les classes : Guerrier, Rôdeuse, Sorcière, Berserker, Dompteuse, Musa, Valkyrie, Maehwa, Magicien, Magicienne, Kunoichi, Ninja"
             ]
