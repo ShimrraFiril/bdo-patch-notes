@@ -1,6 +1,16 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Remise en place des costumes d'Halloween de l'année dernière pour toutes les classes (ajout de ceux manquants pour la Lame Sombre et le Poings Furieux).",
+                "Ajout de 5 set de meubles sur le thème d'Halloween et ajout d'un Jukebox au thème d'Halloween."
+            ]
+        },
+        "link": "https://community.blackdesertonline.com/index.php?threads/mise-%C3%A0-jour-de-la-boutique-de-perles-25-octobre-2017.81404/",
+        "date": "2017-10-25"
+    },
+    {
+        "categories": {
             "Système": [
                 "Le fichier de données de la carte a été changé. La taille de l’installation a été réduite.",
                 "Les récompenses des défis pour avoir joué quotidiennement peuvent maintenant être obtenues après minuit sans avoir à redémarrer le jeu.",
