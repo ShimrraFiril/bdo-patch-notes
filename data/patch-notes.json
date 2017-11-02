@@ -1,6 +1,67 @@
 [
     {
         "categories": {
+            "Système": [
+                "La Milice pour les guerres de conquête a été implémentée.",
+                "Certaines règles de la guerre de conquête ont été changées.",
+                "La compétence de monture Prudence ne sera pas activée dans la zone du désert."
+            ],
+            "Classe": [
+                "Les compétences d’éveil basiques de tous les personnages (compétences «entraînement») ont maintenant 5 rangs au lieu de 10.",
+                "Le montant d’EXP de combat gagné entre les niveaux 56 et 60 a été fortement augmenté.",
+                "Sorcière : Correction du problème qui faisait que l’attaque aérienne n’était pas disponible en utilisant Flamme funèbre.",
+                "Berserker : Corrections et améliorations sur les capacités (2) : Entraînement au mortier, Charge sauvage.",
+                "Valkyrie : Correction de la valeur erronée de récupération de PS pour les attaques d’Entraînement à la lance.",
+                "Magicien : Correction du problème qui plaçait le point de rotation de la compétence Catastrophe IV devant le magicien au lieu de le placer au centre du corps du Magicien.",
+                "Musa : «Récupération de PV + 10 par coups réussis» a été ajouté à la description d’Entraînement au Mushindo du Musa.",
+                "Poings Furieux : La description de la compétence Entrainement à la Kavancha a été complété pour le JCE."
+            ],
+            "Quête": [
+                "Le résumé et l’objectif de la quête «Mais où est le cultiste de Mediah ?» sont plus clairs.",
+                "Des prérequis ont été implémentés concernant l'acceptation de certaines quêtes secondaires afin de guider au mieux les nouveaux joueurs pendant la quête principale du niveau 1 à 50.",
+                "Les joueurs peuvent maintenant regarder les cinématiques quand ils font les quêtes principales avec un nouveau personnage, même si d’autres personnages de la même famille ont déjà fini ces quêtes.",
+                "Correction du problème qui empêchait les joueurs de terminer certaines quêtes à Balenos.",
+                "Correction du problème qui faisait que certaines familles ne pouvaient pas terminer ou abandonner la quête «Ferrina égarée».",
+                "Correction du problème qui rendait impossible la progression dans une quête à Port Ratt car les joueurs ne pouvaient pas parler à un villageois PNJ."
+            ],
+            "Mécanique": [
+                "Une nouvelle fonctionnalité de transformation : la «Manufacture» a été mise à jour.",
+                "Les objets secondaires obtenues dans les quêtes récurrentes à Mediah peuvent être échangés contre des sceaux.",
+                "Les armes d’éveil de niveau vert peuvent être améliorées jusqu’au niveau ultime.",
+                "Le poids des articles à vendre obtenables sur les monstres a été diminué pour permettre une meilleure gestion du poids pendant les périodes de collecte intensive d’objets.",
+                "Quand une tour lance-flammes ou un hwachas est détruit dans la Crevasse Sauvage, les joueurs peuvent maintenant installer d’autres objets au même endroit dans les 15-20 secondes.",
+                "Les monstres au Poste des helms ont été réorganisés.",
+                "Les monstres à la Garnison des sausans ont été réorganisés.",
+                "Certains monstres ne sont plus considérés comme agressifs et n'attaqueront donc plus les premiers.",
+                "Le nombre d’objets que vous pouvez obtenir en tuant les monstres suivants à l’Entrée de Kamasylvia a été ajusté : Gargouille de roche, Bébé gargouille de roche.",
+                "Les monstres des Ruines Mirumoks donneront moins d’EXP.",
+                "Correction du problème qui faisait que les joueurs ne pouvaient pas invoquer le Gardien Mirumok en utilisant l’objet.",
+                "Correction du problème qui faisait que l ’effet sonore de Flux : Pluie sanglante du Poings Furieux était affecté par l’option «Supprimer les effets des autres joueurs».",
+                "Correction du problème d’EXP de commerce donnée en trop faible quantité pour certains paliers de niveau.",
+                "La navigation dans certaines parties de Balenos, Serendia, Calpheon, et Media a été améliorée."
+            ],
+            "UI": [
+                "Une infobulle a été ajoutée aux boutons de l’onglet «En cours» de la fenêtre de quête.",
+                "«Trier par quantité d'objets» a été ajouté dans le marché.",
+                "Un bouton Trouver un PNJ a été ajouté dans le coin inférieur droit de la carte du monde.",
+                "Modification de l’infobulle de l’icône de poids qui apparait quand la limite de poids est dépassée.",
+                "Correction du problème qui faisait que le bouton «Désactiver la protection» n’apparaissait pas dans la fenêtre Statut du membre de la guilde.",
+                "Correction du problème qui affichait des ouvriers à embaucher même si le joueur ne possédait pas d’hébergement des ouvriers."
+            ],
+            "Objet": [
+                "Un tir spécial utilisant la Rage d'esprit occulte à 100 % a été ajouté aux mousquets.",
+                "Le [Combat] Mousquet de Trina et la [Combat] Balle en plomb de Trina ont été mis à jour.",
+                "La [Combat] Hache de démolition de Trina a été mise à jour."
+            ],
+            "Évent": [
+                "L’événement Héros de la Milice ! a commencé."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/503",
+        "date": "2017-11-01"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Remise en place des costumes d'Halloween de l'année dernière pour toutes les classes (ajout de ceux manquants pour la Lame Sombre et le Poings Furieux).",
                 "Ajout de 5 set de meubles sur le thème d'Halloween et ajout d'un Jukebox au thème d'Halloween."
