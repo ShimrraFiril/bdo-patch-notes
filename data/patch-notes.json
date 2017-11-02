@@ -1,6 +1,16 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Lame Sombre : Ajout du costume d'éveil d'Heled.",
+                "Poings Furieux : Ajout du costume de canape."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/509",
+        "date": "2017-11-01"
+    },
+    {
+        "categories": {
             "Système": [
                 "La Milice pour les guerres de conquête a été implémentée.",
                 "Certaines règles de la guerre de conquête ont été changées.",
