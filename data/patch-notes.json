@@ -1,6 +1,78 @@
 [
     {
         "categories": {
+            "Système": [
+                "Le boss mondial Quint le premier troll ancien a été ajouté.",
+                "Le boss mondial Muraka le roi des ogres a été ajouté.",
+                "De nouvelles cartes de connaissances ont été ajoutées : Quint, Muraka.",
+                "L’esprit occulte sera invoqué plus rapidement.",
+                "Les horaires des Guerres de Conquête/Géoconflits ont été ajustés au changement d'horaire saisonnier."
+            ],
+            "Classe": [
+                "Si un personnage possède la fonctionnalité d’éveil de compétence, la vidéo de combat d’éveil et la description peuvent être vues dans l’écran de Création de personnage afin que vous puissiez choisir le personnage que vous voulez plus facilement.",
+                "Guerrier : Correction du problème qui rendait possible l’utilisation d’Enterrement juste après avoir utilisé Cicatrices crépusculaires en position de combat éveillée.",
+                "Rôdeuse : Modification de la consommation de durabilité pour être faiblement réduite.",
+                "Berserker : Correction des valeurs de dégâts erronées de Coup de genou dans la description de la compétence Bête enragée.",
+                "Maehwa : Correction du problème qui faisait que la Maehwa était déplacée plus loin que les autres personnages quand elle est touchée par fracas aérien.",
+                "Ninja : Corrections et améliorations sur les capacités (6) : Entaille obscure, Sauvage du vent, Coup fatal, Ninjutsu: Entraves, Griffe de renard, Flux : Permutation, Dissimulation, Shuriken : Envol.",
+                "Kunoichi : Corrections et améliorations sur les capacités (5) : Entaille obscure, Sauvage du vent, Coup fatal, Ninjutsu: Entraves, Griffe de renard, Flux : Permutation, Coupe tendon."
+            ],
+            "Quête": [
+                "Il est maintenant possible de découvrir Florin en progressant à travers les quêtes principales du Nv. 1 à 50.",
+                "Les parchemins d’invocation utilisés dans les quêtes principales auront maintenant des effets spéciaux dans l’inventaire, et déclencheront également une alerte de l’esprit occulte.",
+                "Des informations concernant l’obtention du Jeton de promesse ont été ajoutées à la description des objets : Armure de magie faible et armes secondaires de magie faible.",
+                "Les PNJ cibles des quêtes principales de Port Ratt ont été changés.",
+                "Correction du problème qui faisait que la quête Livraison de vin pour le banquet n’était pas correctement déclenchée à partir du Nv. 39.",
+                "Correction du problème qui rendait impossible de terminer la quête : La rémunération de Jarette."
+            ],
+            "Mécanique": [
+                "Les PV et les PD des monstres dans le Camp bashim ont été diminués.",
+                "Les monstres dans la Planque des manes ont été réorganisés.",
+                "Vous pouvez maintenant en savoir plus sur le Grand cuirassé de Goldmont et le Requin-raie en gagnant des points d’amitié ou en discutant avec Gintabam et Haeran à Port Ratt.",
+                "Des connaissances pour le PNJ Sharia du Temple des nagas du désert ont été ajoutées.",
+                "Correction du problème qui faisait qu’il était temporairement impossible d’échanger des Cristaux corrompus contre des armes de Kalis.",
+                "Correction du problème qui faisait que les drapeaux à l’Entrée d'Altinova n’affichait pas l’emblème de la guilde.",
+                "Correction des dialogues étranges de certains PNJ de la cité d’Altinova.",
+                "Correction du problème qui faisait qu’utiliser Vérifier l'emplacement des PNJ en cliquant sur Poudre ensorcelée n’indiquait pas le PNJ Ronatz.",
+                "L’Oasis d’Ibellab ne peut plus être sélectionné comme destination en utilisant la fonctionnalité Naviguer.",
+                "Après l’échec ou la réussite d’une optimisation via l’esprit occulte, vous pouvez maintenant appuyer sur Échap pour fermer l’écran et vous déplacer.",
+                "Correction du problème qui faisait que dans la Crevasse sauvage les joueurs ne pouvaient pas se déplacer naturellement dans les zones où des installations avaient été détruites.",
+                "Correction du problème qui faisait que l’IU ne montrait pas la quantité d’huile/flèches/Boulets de canon pour les Tours lance-flammes/Hwachas/Canons dans la Crevasse sauvage.",
+                "Correction du problème qui faisait que le défilement de la Liste d'amis se remettait à zéro dès que des amis de la liste se connectaient/déconnectaient.",
+                "Correction du problème qui faisait que l’on pouvait voir les ouvriers à embaucher même sans posséder d’Hébergement des ouvriers.",
+                "Correction du problème qui faisait que la connaissance de la « Présence Spirituelle » ne pouvait être obtenue pendant la quête « À propos de Kamasylvia ».",
+                "Correction du problème qui faisait que l’effet de transparence du mat des navires n’était pas appliqué si la durabilité du bateau chutait en dessous de 50 %.",
+                "Correction du problème qui faisait que les descriptions de certains objets n’étaient pas affichées correctement dans la fenêtre de Transformation."
+            ],
+            "UI": [
+                "Les paramètres par défaut de la fenêtre de chat ont été modifiés.",
+                "La valeur de l’EXP de compétence qui apparaît dans le coin supérieur gauche est maintenant affichée avec 3 décimales.",
+                "Les boutons de vidéos de tutoriel dans le coin supérieur droit de la carte du monde ne seront plus affichés par défaut.",
+                "La fenêtre de Souvenir récent restera maintenant ouverte plus longtemps.",
+                "Une description d’objet a été ajoutée à la section inférieure dans la fenêtre du Sac d’équipement de Morco.",
+                "Il est maintenant possible de faire des portraits en appuyant sur la touche Espace depuis l’écran du Salon de beauté (Personnalisation).",
+                "Correction du problème qui ralentissait sévèrement le client du jeu quand le joueur voulait changer de région dans la fenêtre de recherche de PNJ après avoir utilisé la fonctionnalité recherche.",
+                "Les icônes de rang des membres de la guilde ont été changées.",
+                "Correction du problème qui faisait que le bouton Vérifier l'emplacement des PNJ ne fonctionnait pas si il était utilisé près des PNJ de réparation."
+            ],
+            "Objet": [
+                "Un nouvel effet dans la fenêtre d’inventaire sera appliqué sur les objets nouvellement acquis.",
+                "Un effet scintillant a été ajouté à l’Objet perdu de Margoria.",
+                "Un nouveau canon, le Canon de Vype Stoner, et ses munitions, les Ballafreuses, ont été ajoutés.",
+                "La portée de tir a été augmentée et les dégâts fortement augmentés lors de l’utilisation du mousquet avec la Rage d'esprit occulte lors des quêtes, de la chasse, en combat, et dans la Crevasse sauvage.",
+                "Faire feu avec un mousquet en utilisant la Rage d'esprit occulte est maintenant possible sur une monture.",
+                "Il maintenant possible de récolter des ressources avec un mousquet équipé."
+            ],
+            "Évent": [
+                "Œufs d’oie en Or de Flondor a débuté.",
+                "Calendrier 2018 a débuté : Concours de screenshots."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/527",
+        "date": "2017-11-08"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Lame Sombre : Ajout du costume d'éveil d'Heled.",
                 "Poings Furieux : Ajout du costume de canopée."
