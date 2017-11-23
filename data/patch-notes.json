@@ -1,6 +1,20 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Valkyrie : Ajout du set d'éveil Arrendo.",
+                "Rôdeuse : Ajout du set d'Audria.",
+                "Ajout du coupon de changement de compétences de montures (10+1).",
+                "Ajout du lot d'extension des dépôts de Kamasylvia +1.",
+                "Ajout du lot d'extension des dépôts de Kamasylvia +4.",
+                "Ajout du lot d'extension des dépôts de Kamasylvia +8."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/542",
+        "date": "2017-11-15"
+    },
+    {
+        "categories": {
             "Système": [
                 "Sortie de la partie 2 de Kamasylvia (nouvelles régions, nouvelles connaissances, nouvelles quêtes, etc).",
                 "L'option permettant de recevoir un Hérisson en récompense a été ajoutée au Pack Cadeau. Offrez un Pass de jeu et recevez des récompenses.",
