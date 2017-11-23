@@ -1,6 +1,18 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Ajout du pet Chien méchant de Pila Fe.",
+                "Ajout du billet d'extension d'hébergement ouvrier +1 pour Kamasylvia.",
+                "Ajout du costume de hors-la-loi de Pila Fe pour les classes : Guerrier, Rôdeuse, Sorcière, Berserker, Dompteuse, Musa, Valkyrie, Maehwa, Magicien, Magicienne, Kunoichi, Ninja, Lame Sombre.",
+                "Ajout d'un pack regroupant le nouveau pet et le nouveau costume."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/555",
+        "date": "2017-11-22"
+    },
+    {
+        "categories": {
             "Système": [
                 "Ajout d’un 5e emplacement pour les familiers.",
                 "Les règles de l’arène d’Arsha ont été modifiées.",
