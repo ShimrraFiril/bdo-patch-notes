@@ -1,6 +1,98 @@
 [
     {
         "categories": {
+            "Système": [
+                "Sortie de la partie 2 de Kamasylvia (nouvelles régions, nouvelles connaissances, nouvelles quêtes, etc).",
+                "L'option permettant de recevoir un Hérisson en récompense a été ajoutée au Pack Cadeau. Offrez un Pass de jeu et recevez des récompenses.",
+                "Il est désormais possible d’utiliser les Conseils de Valks dans la fenêtre d’optimisation.",
+                "Désormais vous aurez besoin de deux fois plus de matériaux d’entrainement si une compétence d’éveil d’un cheval atteint 100%.",
+                "Si vous possédez un personnage de niveau 50 ou plus, créer un nouveau personnage et sauter le tutoriel bloquera l’affichage des autres tutoriels.",
+                "Se connecter à un serveur de Conquêtes / Géoconflits à partir de 15 min avant la guerre fera replacer automatiquement votre personnage à la ville la plus proche.",
+                "Correction du problème où il était possible d’utiliser Ordre de récolte (guilde) ou une autre commande similaire même si le personnage avait un objet de commerce dans son inventaire et/ou dans l’inventaire de sa monture.",
+                "Correction du problème qui faisait planter le jeu si vous possédiez un Windows 64-Bit avec un processeur 8-Core."
+            ],
+            "Classe": [
+                "La touche pour marcher a été modifiée de Maj. à Scroll Lock.",
+                "Rôdeuse : Corrections et améliorations sur les capacités (2) : Rafale explosive, effet d’invincibilité contre les monstres lors des roulades avec l'épée elfique.",
+                "Ninja : Corrections et améliorations sur les capacités (2) : Dissimulation.",
+                "Kunoichi : Corrections et améliorations sur les capacités (2) : Dissimulation.",
+                "Poings Furieux : Correction du problème où le dernier coup de Frappe Véritable IV après Chute était reproduit de façon répétitive."
+            ],
+            "Quête": [
+                "[Wagon] Esprit de l’oie de Flondor a été ajouté.",
+                "De nouvelles quêtes ont été ajoutées à Kamasylvia.",
+                "Complétez une des quêtes [Wagon] Capricieuse Merindora pour recevoir de façon aléatoire une des cinq quêtes.",
+                "Correction du problème des quêtes de commerce ou la localisation de Daphne DelLucci été défini à Ferme DelLucci.",
+                "Les conseils de connaissance pour le rôle d'une valkyrie en période de guerre, principes fondamentaux des valkyries : intégrité et Principes fondamentaux des valkyries : dévouement ont été corrigés.",
+                "De nouvelles quêtes spéciales ont été ajoutées (pour obtenir des parchemins de boss).",
+                "Des quêtes que vous pouvez compléter immédiatement ont été ajoutées aux catégories [Spécial V] et [Spécial IV] si vous possédez les connaissances pour le griffon d'Ahib et Narc Brishka.",
+                "Correction du problème où les statues tout en haut de la Sainte faculté de Calpheon disparaissaient pendant la quête «La légende des Valkyries»",
+                "Suite à des problèmes internes, la traduction de certaines quêtes secondaires dans Kamasylvia 2 est malheureusement incomplète, celles-ci devraient être complétées dans les semaines à venir. Veuillez nous excuser pour la gêne occasionnée."
+            ],
+            "Mécanique": [
+                "De nouveaux objets peuvent être utilisés pour polir les différentes pierres d'alchimies (cf patch note pour la liste).",
+                "Il est désormais possible d’utiliser Réalisation d'énergie d’Alustin partout dans le monde.",
+                "La quantité de stockage des objets de commerce sans limite de niveau de commerce a été doublée.",
+                "En raison des changements des mécaniques de commerce, le poids de certains objets de commerce a aussi été ajusté pour correspondre à leur augmentation de quantité de stock et de prix, ceci à des fins d'équilibrage.",
+                "La quantité de stockage de certains objets de commerce de Valencia ainsi que leur prix ont été ajustés.",
+                "Le badge de wagon à quatre roues de haute qualité a été ajouté.",
+                "Housse de chariot marchand de qualité supérieure peut maintenant être échangée contre des [Livraison impériale] Sceaux dorés brillants x100 (Précédemment 250).",
+                "La navigation vers les villes de Valencia et Port intérieur d'Ancado depuis les autres territoires a été améliorée.",
+                "L’autel de la formation avancé a été ajouté à «Rang de monstre».",
+                "De nouveaux titres en relation avec Valtarra : autel de la formation avancé ont été ajoutés.",
+                "De nouveaux ouvriers ont été ajoutés pour Kamasylvia.",
+                "Le commerce est désormais disponible à Kamasylvia.",
+                "Les groupes d’objets de la livraison impériale ont été légèrement modifiés, et la livraison impériale a été ajouté à Grána.",
+                "Vous pouvez désormais envoyer et recevoir des objets au dépôt du Vieil arbre de la sagesse.",
+                "Un PNJ Conducteur de travaux et des ouvriers ont été ajouté à Vieil arbre de la sagesse : Seuls des ouvriers de niveau artisan peuvent y être recrutés.",
+                "Un nouveau cheval onirique, Diné, a été ajouté (cf le patch note sur comment l'obtenir, les compétences associées, etc).",
+                "Correction du problème concernant Arduanatt qui mourrait parfois en atterrissant en utilisant la compétence ailes du vent.",
+                "Valtarra : Un nouveau mode plus difficile avec de nouvelle récompense a été implémenté (cf patch notes pour plus de détails). Le mode précédent a été simplifié (150 PA conseillés).",
+                "De nouvelles recettes Kamasylvian ont été ajoutées, 6 pour la cuisine et 9 pour l’alchimie.",
+                "Un nouveau monstre Ronaros forestier a été ajouté.",
+                "Une nouvelle zone pour EXP a été ajoutée, le temple de Gyfin Rhasia.",
+                "Vous pouvez utiliser une houe pour récolter sur les monstres de la forêt de Polly.",
+                "Correction du problème ou parfois moins de sept monstres étaient provoqués.",
+                "Les PA des monstres présents dans les zones suivantes ont été augmentés : Temple d'Aakman, Ruines d'Hystria, Ruines Mirumoks.",
+                "Correction du problème qui empêchait parfois tous les joueurs de recevoir les récompenses d’un boss.",
+                "Les PA et PV de la Gargouille de roche et du Bébé gargouille de roche ont été réduis.",
+                "Les monstres de la foret de Polly donnent désormais des fragments de pierre d'esprit de l'Eau.",
+                "Des objets ont été ajoutés dans le grands désert Valencia.",
+                "Les lieux pour gagner certaines connaissances écologiques à Valencia et Kamasylvia ont été ajouté à la carte du monde.",
+                "Correction du problème qui rendait impossible de bouger un voilier en essayant de quitter le camp côtier abandonné de Shakatu."
+            ],
+            "UI": [
+                "Une fenêtre de confirmation apparaîtra désormais après avoir cliqué sur Réinitialiser tout dans les options.",
+                "Survoler une icône de compétence avec la souris après une recherche vous amènera désormais directement à cette compétence.",
+                "Vous pouvez désormais faire des recherches par type dans l’album de beauté de la galerie de l'utilisateur."
+            ],
+            "Objet": [
+                "La description des objets qui peuvent être équipés sur le Wagon agricole, le Wagon de commerce et la Calèche de nobles sera modifiée pour directement nommé les wagons individuellement au lieu de «Wagon à quatre roues».",
+                "La ceinture éclipsée de Valtarra a été ajoutée. L’aura dispersée de Valtarra a été ajoutée (20 = la ceinture).",
+                "De nouveaux accessoires de qualité jaune ont été ajoutés : Ceinture de Tungrad & Anneau des Ronaros forestiers.",
+                "De nouveaux équipements de qualité bleue ont été ajoutés (un set qui va de paire avec la Liverto).",
+                "De nouveaux accessoires en récompense de quête ont été ajoutés.",
+                "Wagon forestier de Peridot a été ajouté.",
+                "De nouveaux objets de qualité bleue ont été ajoutés pour le Wagon forestier Peridot ont été ajoutés. Ils peuvent être fabriqués à Grana 3-2, 2F, Atelier de composants de wagon Niveau 4.",
+                "Le parchemin de Makaraum a été ajouté.",
+                "La pierre du Manshaum Narc a été ajouté.",
+                "Parcelle de truffes a été ajoutée.",
+                "[Coop] Rituel du culte manshaum a été ajouté."
+            ],
+            "Cashshop": [
+                "Les catégories dans la boutique de perles ont été retravaillées pour que la liste des articles apparait de façon consécutive des objets marqués (Ex: Nouveaux, Hot), des articles réguliers et des articles épuisés."
+            ],
+            "Évent": [
+                "L’événement \"Alchimistes Kamasylviens 2\" a été ajouté.",
+                "L’aventure de l'Esprit occulte est de retour.",
+                "Le bonus d’EXP de monture a été ajouté."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/533",
+        "date": "2017-11-15"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Ajout d'un lot de 10 Mégaphones.",
                 "Ajout d'une cloche dorée à utilisation unique en achat via des perles ou des loyalties."
