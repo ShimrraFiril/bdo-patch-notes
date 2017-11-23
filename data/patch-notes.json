@@ -70,7 +70,8 @@
                 "Correction du problème qui faisait que les personnages qui chevauchaient des éléphants ou des tours de siège (Moyennes et grandes) subissaient des dégâts pendant les guerres de conquête.",
                 "Correction du problème qui pouvait causer la destruction de montures installées dans la Crevasse Sauvage si elles étaient montées par des personnages non affiliés à une guilde.",
                 "Correction du problème qui faisait apparaitre un paquet de cuisine impériale dans les mains du personnage s’il effectuait une certaine action pendant que l’empaquetage est en cours.",
-                "Correction d’un problème dans «Appliquer la personnalisation» de l’Album de beauté dans la création de personnage."
+                "Correction d’un problème dans «Appliquer la personnalisation» de l’Album de beauté dans la création de personnage.",
+                "Les dernières quêtes de Kamasylvia non traduites au au précédent patch, le sont à présent. (Non précisé dans le patch note)."
             ],
             "UI": [
                 "Un filtre quête a été ajouté à l’interface «Quête» des PNJ.",
