@@ -1,6 +1,101 @@
 [
     {
         "categories": {
+            "Système": [
+                "Ajout d’un 5e emplacement pour les familiers.",
+                "Les règles de l’arène d’Arsha ont été modifiées.",
+                "Vous ne pouvez plus désormais mettre des objets depuis votre inventaire à la fenêtre de transformation si votre inventaire est plein.",
+                "Les récompenses pour avoir livré la boîte de réactif de liquide clair ont été améliorées.",
+                "Correction du problème avec la fenêtre de transformation lorsque vous ajoutiez 5 objets.",
+                "Correction du problème où il était impossible d’installer un nouvel objet à l’emplacement ou une Tour lance-flammes ou un Hwacha avait été détruit dans la crevasse sauvage.",
+                "Correction du problème ou interagir avec certains PNJ de Velia montrait l’intérieur du Gobelin."
+            ],
+            "Classe": [
+                "La Sorcière, la Valkyrie, la Kunoichi, le Ninja et le Magicien peuvent maintenant maintenir la course automatique même s’ils sont interrompus par un saut.",
+                "Rôdeuse : Correction du problème concernant Rafale explosive qui ne pouvait pas être utilisé successivement.",
+                "Dompteuse : Des informations concernant la régénération de PV et PM ont été ajoutées sur la description des compétences de l’arme principale.",
+                "Valkyrie : Corrections et améliorations sur les capacités (7) : Lance céleste, Charge vertueuse, Épée du jugement, Déluge de coups, Contre, Coup de pied volant, Flux : double coup de pied volant.",
+                "Magicienne : Le type d’attaque de la compétence Impulsion Voltaïque a été modifié.",
+                "Magicien : Le type d’attaque de la compétence Catastrophe a été modifié.",
+                "Ninja : Corrections et améliorations sur les capacités (2) : Pas fantôme, Mesure Drastique.",
+                "Kunoichi : Corrections et améliorations sur les capacités (2) : Disque lunaire, Décharge lunaire et Danse macabre.",
+                "Poings Furieux : Correction du problème où utiliser Frappe Véritable IV après Chute et en laissant votre personnage seul lui faisait effectuer le 3eme coup de Frappe véritable sans interruption."
+            ],
+            "Quête": [
+                "La quête de l’esprit occulte «Terrassez les sausans» apparaîtra désormais au niveau 55 et au-dessus.",
+                "Le bouton «Basteer disparu» n’apparaitra plus dans les dialogues avec l’esprit occulte si le personnage est de niveau 50 ou plus.",
+                "Un cristal magique de niveau vert pour les armes a été ajouté en option pour les récompenses de la série de quêtes «Une meilleure arme».",
+                "Correction du problème où vous ne pouviez plus revoir certaines cinématiques après avoir complété certaines quêtes.",
+                "Les prérequis pour découvrir Luke ont été retirés.",
+                "Les quêtes  [Promotion de combat] Loutre des mers mal à l'aise et [Promotion de combat] Trio de Mediah peuvent maintenant être reçues après avoir fini l’éveil d’un personnage.",
+                "Si vous avez assez de points d’amitié avec Lonamin, le bouton pour obtenir la connaissance «Comment rencontrer Yianaros» apparaîtra désormais peu importe le statut de la quête.",
+                "Les prérequis pour certaines quêtes de Mediah ont été modifiés pour que puissiez les recevoir plus facilement.",
+                "20 quêtes de Mediah ont à présent comme pré-requis d'avoir fini les quêtes principales.",
+                "Des points d’amitié avec Neruda Shen ont été ajouté comme récompense pour la quête Chef d'Altinova.",
+                "Correction du problème où la quête des conseils de Valks ne pouvait pas être acceptée à la fin de la quête «La lithographie occulte de Bautt»",
+                "Correction du problème qui faisait qu’utiliser la navigation pour la quête «Arête de Karanda» vous guidait au Bazar de grain de Sable.",
+                "Narc Brishka n’utilisera plus sa compétence d’augmentation de PD pendant la quête «[Solo] Pierre de sceau magique de Narc».",
+                "La valeur d’EXP que vous obtenez de la quête «[Solo] Pierre de sceau magique de Narc» a été augmentée.",
+                "Le nombre de pétales de Peridot que vous pouvez obtenir d’un lot de récompenses de pierre de Sceau du sort de Narc a été augmenté.",
+                "Il y a maintenant une chance d’obtenir une «Furie de la forêt» dans un Lot de récompenses de pierre de Sceau du sort de Narc.",
+                "Les chances d’obtenir un accessoire d'oreille de Narc dans un lot de récompenses de pierre de Sceau du sort de Narc ont été augmentées.",
+                "Les chances d’obtenir un Fragment de pierre d'esprit de l'Eau sans un lot de récompenses de pierre de Sceau du sort de Narc ont été augmentées.",
+                "Le nombre de Sceaux du Destructeur Helm que vous obtenez via la quête «[Répétable] Destructeur d’Helms» a été augmenté à 6.",
+                "Le nombre de Sceaux de corruption que vous obtenez via la quête «[Répétable] Destruction de sorts !» a été augmenté à 7.",
+                "Des quêtes ont été ajoutées pour les PNJ Dichzy Borne (Île de Lema) et Philaberto Falasi (Port d'Epheria) grâce auxquelles vous pouvez obtenir respectivement un Batelier professionnel et un Marin professionnel."
+            ],
+            "Mécanique": [
+                "Entrepôt d'artéfacts d'Argos au Sanctuaire du croissant a été poussé vers le mur.",
+                "Des monstres additionnels ont été positionnés autour de l’entrée des Ruines anciennes d'Hasrah.",
+                "La portée des attaques des Kukuris, des Baltens et des Kamols des Ruines anciennes d'Hasrah a été réduite.",
+                "La vitesse de mouvement des Kukuris, des Baltens et des Kamols des Ruines anciennes d'Hasrah a été augmentée.",
+                "Le nombre des monstres dans la mine souterraine du Poste des helms a été fortement augmenté.",
+                "Des monstres additionnels ont été positionné dans le Sanctuaire du croissant.",
+                "Quint et Muraka apparaitront désormais sur 18 serveurs au lieu de 14.",
+                "Correction du problème qui faisait que l’effet du titre Fantassin (Stormtrooper) ne fonctionnait pas après une résurrection.",
+                "Correction du problème qui causait la disparition de la mini-carte dans l’Océan et le Désert.",
+                "Si un personnage meurt dans certaines zones de Valencia ou qu’une guerre de conquête ou un géoconflit éclate, il sera déplacé vers la ville la plus proche.",
+                "Correction du problème qui faisait que les personnages qui chevauchaient des éléphants ou des tours de siège (Moyennes et grandes) subissaient des dégâts pendant les guerres de conquête.",
+                "Correction du problème qui pouvait causer la destruction de montures installées dans la Crevasse Sauvage si elles étaient montées par des personnages non affiliés à une guilde.",
+                "Correction du problème qui faisait apparaitre un paquet de cuisine impériale dans les mains du personnage s’il effectuait une certaine action pendant que l’empaquetage est en cours.",
+                "Correction d’un problème dans «Appliquer la personnalisation» de l’Album de beauté dans la création de personnage."
+            ],
+            "UI": [
+                "Un filtre quête a été ajouté à l’interface «Quête» des PNJ.",
+                "Toutes les quêtes principales ont maintenant une icône de l’esprit occulte.",
+                "4 quêtes ne seront plus disponibles. Les PNJ spécifiques à ces quêtes (Voleur à la tire, Malfrat...) n’apparaîtront plus.",
+                "L’emplacement de la fenêtre de détails de quête a été légèrement ajusté.",
+                "L’icône «R» qui apparait dans les dialogues a été changé. Elle apparaîtra désormais à l’intérieur de la boîte et non plus à l’extérieur.",
+                "Vous pouvez maintenant changer la couleur de toutes les pièces en même temps dans l’écran Teinture (J).",
+                "Des informations utiles ont été ajoutées au bas de la fenêtre du Marché accessible depuis le menu Échap.",
+                "Il est maintenant plus facile d’acheter des Servantes au marché depuis la fenêtre du Marché accessible depuis le menu Échap.",
+                "Un message système sera affiché pour vous avertir que votre EXP a diminué lors de votre mort (Si applicable). Une ligne a été ajoutée pour vous faire savoir que vous pouvez récupérer une PARTIE DE CETTE EXP si vous utilisez un objet de résurrection.",
+                "Correction du problème qui inversait les icônes des quartier-maîtres et des membres de la Guilde.",
+                "La route de navigation pour les quêtes principales sera maintenant affichée en jaune dans la carte du monde.",
+                "Correction du problème qui faisait que la fenêtre de l’objet de récupération pour ouvrier bloquait la jauge d’endurance de l’ouvrier si vous essayiez de faire récupérer de l’endurance à un seul ouvrier."
+            ],
+            "Objet": [
+                "Un nouvel objet «Graine mystérieuse» a été ajouté.",
+                "Les informations concernant la précision, l'esquive et les réductions de dégâts seront affichées. Toutefois, les effets de set et les autres effets additionnels ne seront pas affichés",
+                "Les objets divers que vous obtenez sur les monstres de Balenos à Mediah ont été rendu plus léger (Maintenant 0.10LT) : Ceci ne concerne pas les Pirates de Cox, la Garnison des sausans et les gardes Shultz.",
+                "Le cristal couvert de cendres noires qui peut être obtenu depuis la mine de fer abandonnée peut maintenant être vendu à la boutique.",
+                "L’effet de PV maximum a été ajouté à certains costumes de seigneur."
+            ],
+            "Cashshop": [
+                "Certains coupons peuvent être utilisés pour plusieurs transactions."
+            ],
+            "Évent": [
+                "Promotions du black friday.",
+                "Le roi Targargo est de retour.",
+                "L’évènement «De la dinde en veux-tu en voilà» a commencé.",
+                "Les soldes de Patrigio ont commencé"
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/557",
+        "date": "2017-11-22"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Valkyrie : Ajout du set d'éveil Arrendo.",
                 "Rôdeuse : Ajout du set d'Audria.",
