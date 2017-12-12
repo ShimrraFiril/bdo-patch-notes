@@ -1,6 +1,97 @@
 [
     {
         "categories": {
+            "Système": [
+                "La mystique est disponible a la création et sera jouable la semaine suivante.",
+                "Les spectateurs n’auront plus d’effet négatif dans l’Arène d’Arsha.",
+                "Un nouveau système de consommation d’énergie a été ajouté."
+            ],
+            "Classe": [
+                "Rôdeuse : Corrections et améliorations sur les capacités (3) : taillades latérales basiques, Pas du vent, roulade.",
+                "Sorcière : Correction du problème où l’effet de la compétence de Marque de l'ombre ne disparaissait pas en utilisant les autres compétences.",
+                "Dompteuse : Utiliser la compétence Coup de pied ascendant avec la Baguette céleste activera automatiquement la position de l’épée courte.",
+                "Magicienne : Corrections et améliorations sur les capacités (2) :  sprint, inondation toxique.",
+                "Magicien : Corrections et améliorations sur les capacités (2) :  sprint, Folie contrôlée.",
+                "Musa : Correction du problème où utiliser la compétence Appel du tigre vous remettait dans la position du Mushindo.",
+                "Lame Sombre : Correction sur la description de la capacité Flux : Coup Final.",
+                "Poings Furieux : Corrections et améliorations sur les capacités (5) : Entrainement à la Kavancha I, Frappe sonique, frappe de la montagne, Frappe sonique, Poing Marteau."
+            ],
+            "Quête": [
+                "Correction du problème qui rendait possible d’accepter à la fois les quêtes Voleurs de joyaux et Voler ou ne pas voler, telle est la question alors qu’elles sont de type “l’une ou l’autre”.",
+                "Les conditions pour accepter la quête De retour... à nouveau... ont été changées pour qu’il soit possible de l’accepter sans avoir terminé les quêtes principales de Valencia.",
+                "Charger un canon pendant la quête Test du canon vous permettra de faire feu avec le canon.",
+                "Correction de la navigation incorrecte pour la quête Boussole d'explorateur.",
+                "Correction du problème qui rendait impossible la progression dans la quête Le choix de Kamasylve si votre personnage avait terminé les quêtes principales de Kamasylvia II.",
+                "La connaissance “Balle magique du dernier espoir” peut maintenant être obtenue en terminant la quête Incarnation d’Illezra."
+            ],
+            "Mécanique": [
+                "Le comportement des chevaux générés automatiquement dans les étables a été amélioré.",
+                "Correction du problème qui vous empêchait d’interagir avec la lithographie de Bautt.",
+                "Correction du problème où essayer de rejoindre une course de chevaux durant un duel ne donnait pas de réponse.",
+                "Le temps de production des tours de siège moyennes et grandes a été réduit.",
+                "Lorsque vous compléterez la livraison impériale avec le filet de Nouveranto, vous recevrez un [Livraison impériale] Sceau doré brillant en bonus.",
+                "Vous recevrez désormais les récompenses lingots d’or de la crevasse sauvage par courrier.",
+                "Le système de contribution et la fonction signalement ont été ajoutés à la crevasse sauvage.",
+                "La période pendant laquelle vous pouvez rester dans la crevasse sauvage à la fin de chaque partie a été augmentée de 10 secondes à 2 minutes.",
+                "Un nouveau titre : Bienfaiteur des terres désolées, et une nouvelle action sociale : Entraînement au combat, ont été ajoutés.",
+                "Correction du problème qui faisait que les Pêcheurs homme poisson-chat ne lâchaient pas l’objet “EXP de compétence/combat + 3 %”.",
+                "Correction du problème qui faisait que les Grands Guerriers Manshaums se téléportaient à d’autres endroit de temps en temps.",
+                "Les Grands Guerriers Manshaums ne subiront plus de malus et ne subiront plus de dégâts en effectuant des attaques sautées.",
+                "Le bonus de récolte du hérisson sera appliqué lors de la récolte sur les monstres champignons de la Forêt de Polly.",
+                "Les monstres du Camp bashim ont été réorganisés pour rendre la course automatique plus sûre.",
+                "Les Ogres mutants lâcheront maintenant un Collier brisé à la place de l’Anneau brisé.",
+                "Le mouvement de la Baleines bleue a été amélioré. Les coups des joueurs seront également correctement appliqués aux Baleines bleues.",
+                "Certaines zones le long de la côte de Velia ont été renommées : Plage de Velia.",
+                "Correction du problème qui rendait impossible l’expulsion d’un joueur hors-ligne si un des membres de votre groupe était dans l’arène d’Arsha.",
+                "Correction du problème qui rendait impossible l’utilisation du Dépôt de guilde à la Cabane de fée des dents.",
+                "Correction du problème qui faisait que certaines parties de Grána pouvait être vues avec des couleurs et tons sous-marins.",
+                "Correction du problème qui faisait que la fonction “App. perso. populaire” dans le Salon de beauté ne fonctionnait pas correctement.",
+                "Correction du problème qui empêchait de chevaucher les chevaux à certains endroits.",
+                "Correction du problème qui faisait que le Navire fantôme de Margoria tirait de façon étrange après être apparu.",
+                "Correction du problème où la barre espace déclenchait la photo de portrait lorsque l’album de beauté était ouvert dans le mode de personnalisation."
+            ],
+            "UI": [
+                "Les boutons «Acheter une servante» et «Marché le plus proche» ont été ajoutés à la fenêtre du marché.",
+                "Vous pouvez désormais donner un ordre à tous vos familiers sortis en même temps. Un click gauche changera l’ordre du familier sélectionné, un click droit changera l’ordre de tous les familiers sortis.",
+                "Utiliser une pierre d'alchimie ou une bénédiction des GM affichera une seule icône de bonus.",
+                "La couleur de la police de «précision» dans l’infobulle des objets a été modifiée pour correspondre aux autres textes de caractéristiques.",
+                "Correction du curseur clignotant dans l’écran de Personnalisation.",
+                "Correction du problème qui faisait que la valeur de la réduction de durabilité n’était pas mise à jour quand l’Optimisation est un succès.",
+                "L’info bulle du séchage dans la fenêtre de Transformation indique maintenant que c’est indisponible sur l’océan.",
+                "Des informations concernant la collecte ce bateaux ont été ajoutées à l’écran de quai et de quai de la guilde pour clarifier les règles concernant la collecte de bateaux transportant certains objets.",
+                "Les descriptions des armes secondaires de Kzarka, Liverto, Nouver et Kutum ont été modifiées.",
+                "Les icônes en bas de la fenêtre d’enregistrement du Marché ont été réarrangées.",
+                "Des informations concernant les compétences précédentes ont été ajoutées à la liste de compétences dans la fenêtre d’Informations sur le cheval.",
+                "L’icône de Livraison impériale sera correctement affichée dans l’écran de Commerce pour les objets admissibles pour la Livraison impériale.",
+                "Quand vous assignez un Sac de costumes avec des objets à l’intérieur un emplacement rapide et que vous l’enlevez de cet emplacement, vous ne verrez plus les icônes des objets à l’intérieur du sac dans l’emplacement rapide.",
+                "Des emplacements spéciaux pour afficher les temps de recharge des compétences ont été ajoutés.",
+                "Correction du problème qui faisait bloquer le jeu momentanément en utilisant la fonction Trouver un PNJ.",
+                "Après avoir atteint le Niv. 7 durant le tutoriel, la fenêtre de chat sera affichée.",
+                "Un répertoire pour déposer vos paramètres de jeu est maintenant accessible en bas du menu Options.",
+                "Correction du problème qui faisait que l’icône JcJ forcé n’était pas affichée correctement en mode JcJ."
+            ],
+            "Objet": [
+                "Vous pouvez désormais voir des poissons nager dans l’aquarium du wagon Terrminé.",
+                "L’effet d’ivresse après avoir bu une bière pression fraîche ou une bière brune a été supprimé.",
+                "L’information concernant le cheval onirique a été ajouté dans la description des objets d’entrainement du coursier.",
+                "Les descriptions des objets de trace suivantes ont été modifiées : Trace de chaos, souvenir et mort.",
+                "Correction du problème où le bonus d’attaque et de vitesse de conjuration était de seulement 4% pour l’éclat et la pierre d'alchimie de destruction resplendissante.",
+                "Cela a été corrigé afin que vous ne puissiez plus utiliser la carte d'archéologue lorsque votre monture transporte des objets de commerce.",
+                "De nouveaux équipements ont été ajoutés à Mediah. Ils ne peuvent pas être optimisés ou échangés et ont deux emplacements de cristaux. Ils s'obtiennent via de nouvelles séries de quêtes ou en tuant les monstres : les armes noires abyssales.",
+                "Des armes secondaires de magie libérée et rugissante ont été ajoutées.",
+                "Les objets de fabrication utilisés dans l’[Événement] Festin de dinde rôtie peuvent maintenant être vendus aux PNJ marchands."
+            ],
+            "Évent": [
+                "Concours de beauté de la Mystique",
+                "Événement de pré-création de la Mystique",
+                "Billet d'extension d'emplacements de personnage"
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/613",
+        "date": "2017-12-06"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Promotion sur le set de déco de navigation de Fintomaria."
             ]
