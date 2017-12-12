@@ -1,6 +1,83 @@
 [
     {
         "categories": {
+            "Système": [
+                "Même si la zone où le personnage entre n’a pas fini de charger, il pourra désormais bouger dans la zone déjà chargée.",
+                "Même lorsque les familiers suivent le personnage, ils récupéreront le butin en priorité.",
+                "Si le familier est trop haut, il se téléportera près du personnage.",
+                "Vous ne pouvez plus couper le son des guides vidéo.",
+                "Les montures de ceux qui ne participent pas peuvent facilement être tuées par les montures de guilde dans les serveurs de siège pendant les guerres de siège.",
+                "Des centaures PNJ qui se battent ont été ajouté à la Porte de Barhan."
+            ],
+            "Classe": [
+                "Berserker : Amélioration de la description pour la capacité Tyran terrifiant.",
+                "Magicienne & Magicien : Amélioration de la description pour la capacité Blizzard ultime.",
+                "Magicien : Corrections et améliorations sur les capacités (2) : Flux : Souffle de feu de Marg, Décharge aquatique."
+            ],
+            "Quête": [
+                "Les prérequis pour les quêtes de livraison de Xerxes au Bazar du grain de Sable ont été modifiés.",
+                "Une nouvelle quête pour obtenir un «Pot de Kamasylve», un objet de décoration a été ajouté à Kamasylvia.",
+                "Les conditions pour compléter la quête «La meilleure peau» ont été augmentés. Vous aurez désormais besoin d’obtenir la connaissance Mélange : habile et ensuite produire une Peau souple ultime.",
+                "Le résumé de la quête fierté du pêcheur a été clarifié pour vous faire savoir que vous pouvez seulement utiliser une Silure jaune trapu que vous avez pêché vous-même.",
+                "En parlant à la tablette d'Edana, un bouton qui vous téléporte à l’Ancienne salle de pierres apparaîtra si vous êtes au milieu de la quête «de retour... à nouveau...», OU si vous avez complété la quête «de retour... à nouveau...» sans avoir complété la quête «Grand héritage».",
+                "Les quêtes d’escorte de PNJ sont temporairement suspendu afin de les améliorer.",
+                "Les récompenses pour certaines quêtes de compétence de vie ont été modifiées.",
+                "Une carte de connaissance pour le PNJ Baman sur l’ile Nada a été ajouté.",
+                "Une Pierre d'esprit sauvage a été ajoutée en tant que récompense pour la quête «Traqueur sombre».",
+                "Un Pain au lait moelleux a été ajouté en tant que récompense pour certaines quêtes principales de Mediah et de Valencia.",
+                "Le résumé de la quête «jus anti-gueule de bois» a été clarifié. * Des indices pour compléter la quête ont été ajoutés.",
+                "Le résumé de la quête «Chambre de Cokro» a été clarifié. * Une information concernant l’emplacement du Château de Valencia a été ajoutée."
+            ],
+            "Mécanique": [
+                "Ajustement des différences de dégâts des invocations infligeant trop de dégâts lorsqu’elles attaquaient  les Hwachas, les Tours lance-flammes, les Barrières en bois, les Portes de barrière en bois et les montures.",
+                "La durabilité de Barrière en bois et de Porte de barrière en bois pour les guerres de siège a été réduite par 20%.",
+                "Un bonus d’EXP de compétence a été ajouté en tant que récompense pour [Récompense de combat] Défis.",
+                "Augmentation des PV max des chevaux T1 à T8 ainsi que les chevaux onirique.",
+                "Les PD d’un cheval onirique sont 150% plus élevés comparé à ceux d’un cheval du groupe 8.",
+                "Les PD de Diné ont été augmentés de 150% par rapport à ceux d’Arduanatt.",
+                "Le temps de recharge de Terre de Vie, une compétence innée de Diné a été diminué de 5 à 3 minutes.",
+                "L’effet de régénération des PV et PM (PF/PS) de la compétence Terre de vie de Diné a été augmenté.",
+                "L’effet «Tous les PA +10 pendant 30 sec.» a été ajouté à Terre de Protection, une compétence innée de Diné.",
+                "Les prix de la Livraison impériale et du Marché aux chevaux pour les chevaux des groupes 1 à 8 ont été augmenté de 50% en fonction du groupe, du niveau et des compétences.",
+                "Les prix de la Livraison impériale et du Marché aux chevaux pour les chevaux oniriques ont été augmenté de 20% en fonction du niveau et des compétences.",
+                "La Frégate d’Epheria a été ajoutée ainsi que ses équipements dédiés.",
+                "Les Graines mystérieuses peuvent maintenant être empilées dans un seul emplacement de l’inventaire.",
+                "Correction du problème concernant les armes d’éveil de qualités vertes et bleues qui n’infligeaient pas les effets de dégâts supplémentaires.",
+                "Récolter les ressources suivantes avec une houe ou à mains nues vous permettra de récupérer des objets divers et variés : Buisson, Fourré, Arbrisseau, Herbe sauvage.",
+                "Certains monstres en haut du fort de la Garnison des sausans ont été réarrangés.",
+                "Correction du problème concernant les élixirs de groupe ou l’ordre de priorité n’était pas correctement appliquée lorsque plusieurs élixirs étaient utilisés. Cependant, les élixirs du groupe ne s’appliquent pas au lanceur.",
+                "Correction du problème où cliquer sur les parties d’armure avec l’arme d’éveil dans la fenêtre de teinture ne cachait pas l’arme. La pose du personnage doit rester celle que vous avez précédemment sélectionnée (en combat ou en attente).",
+                "Il est désormais possible de naviguer vers Chenana à l’avant-poste du Rocher."
+            ],
+            "UI": [
+                "Les filtres de groupe et de genre du marché des chevaux seront désormais révélés avec l'alignement gauche.",
+                "Tous les équipements montreront désormais les dégâts supplémentaires dans la description.",
+                "Pour les armes de Dandelion +6 et plus, l’effet «Dégâts supplémentaires aux humains» a été ajouté à la description.",
+                "Correction du problème concernant les objets avec choix d’optimisation.",
+                "Appuyer sur espace ne prendra plus de photo si l’Album de beauté ou l’Explorateur de fichiers sont ouverts dans l’écran de beauté (F4).",
+                "Correction du problème ou l’icône de la livraison impériale n’apparaissait pas dans l’écran d’achat d’articles de commerce.",
+                "Les textes Motivation, Déposer et collecter l’argent en bas de la fenêtre du statut du membre de la guilde seront maintenant abrégés et l’infobulle montrera les mots en entier.",
+                "La fenêtre des compétences s’ajustera avec la longueur du texte."
+            ],
+            "Objet": [
+                "La quincaillière d'Heidel Lara vend désormais des lanternes.",
+                "L’effet d’augmentation de PV sur les équipements de chevaux et de chameaux a été augmenté de 300%.",
+                "Une nouvelle Canne à pêche a été ajoutée : Canne à pêche de Terrmian. De nouvelles quêtes ont été ajoutées pour l’obtention de cet objet."
+            ],
+            "Évent": [
+                "L'événement et le guide \"Mettez les voiles\" avec les Frégates d'Epheria  ont été ajoutés.",
+                "L’événement de captures d’écran d’exploration sous-marine a été ajouté.",
+                "L’évènement Mammore, Conquérant des Terres a été ajouté.",
+                "L’événement «C’est pour qui les bons cookies ?» a été ajouté.",
+                "Des nouvelles récompenses de fidélité ont été ajouté.",
+                "Tombe la neige ! L’arrière-plan sur le thème de l’hiver est la."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/598",
+        "date": "2017-11-29"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Ajout du pet Chien méchant de Pila Fe.",
                 "Ajout du billet d'extension d'hébergement ouvrier +1 pour Kamasylvia.",
