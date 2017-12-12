@@ -1,6 +1,15 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Promotion sur le set de déco de navigation de Fintomaria."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/584",
+        "date": "2017-11-29"
+    },
+    {
+        "categories": {
             "Système": [
                 "Même si la zone où le personnage entre n’a pas fini de charger, il pourra désormais bouger dans la zone déjà chargée.",
                 "Même lorsque les familiers suivent le personnage, ils récupéreront le butin en priorité.",
