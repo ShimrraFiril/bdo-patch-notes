@@ -1,6 +1,89 @@
 [
     {
         "categories": {
+            "Système": [
+                "La taille totale du client a été réduit à environ 27 GB.",
+                "La roulade a été ajoutée lorsque la [Combat] Hache de démolition de Trina est équipée.",
+                "Toutes les installations annexes de la Crevasse sauvage telles que la [Sauvage] Barricade, la [Sauvage] Tour lance-flammes, les améliorations de barricade etc... sont disponibles lorsque le [Sauvage] Mousquet et le [Sauvage] Mousquet optimisé sont équipés.",
+                "Vous pouvez désormais obtenir les objets suivants en échangeant des sceaux de Shakatu : 150 sceaux : Coupon d'échange d'arme principale (7 jours) ou Coupon d'échange d'arme secondaire (7 jours).",
+                "Le temps de recharge pour les sacs (costumes/équipements) a été modifié.",
+                "Les chaussures d’Urugon et le heaume de griffon ont été ajoutés à la liste des objets en vente dans la boutique secrète de Patrigio.",
+                "Le filtre par sexe à côté du bouton de rafraichissement dans le marché aux chevaux fonctionnera désormais correctement.",
+                "Le bouton «Échange d'objets» de certains PNJ qui échangent des objets apparaitra uniquement lorsque vous avez les objets en question.",
+                "Lorsque les personnages sont sur des montures, les boutons Crevasse sauvage et Champ de bataille rouge ont été désactivés.",
+                "Correction du problème où les personnages sur des Éléphants miniatures ne pouvaient pas utiliser la fonction de l’objet Carte d'archéologue.",
+                "Un système permettant d’augmenter vos chances d’éveiller les chevaux a été ajouté.",
+                "Correction du problème où Kamasylvia n’était pas accessible pour les possesseurs d’un processeur 32 bits.",
+                "Correction du problème où Kamasylvia n’était pas accessible pour les possesseurs d’un processeur 32 bits.",
+                "Correction du problème où seule une image noire était sauvegardée lors d’une capture d’écran en 4k/8k."
+            ],
+            "Classe": [
+                "Guerrier : Correction du problème des mouvements étranges du guerrier en utilisant Entaille circulaire juste après l’avoir augmenté au niveau IV.",
+                "Rôdeuse : Correction du mouvement d’emprise lors d’un échec en utilisant la compétence Entraves spirituelles.",
+                "Sorcière : Corrections et améliorations sur les capacités (2) : Flamme funèbre ultime, cauchemar d'apocalypse.",
+                "Berserker : Corrections et améliorations sur les capacités (2) : Frappe de titan, Enracinement",
+                "Dompteuse : Corrections et améliorations sur les capacités (2) : Coup de pied, Entraves spirituelles.",
+                "Valkyrie : Corrections et améliorations sur les capacités (2) : Choc de lumière, Souffle d'Elion.",
+                "Magicienne : Corrections et améliorations sur les capacités (4) : switch armes, Phare magique, chaîne foudroyante, vague déchirante.",
+                "Magicien : Corrections et améliorations sur les capacités (3) : switch armes, Phare magique, chaîne foudroyante.",
+                "Musa : Corrections et améliorations sur les capacités (12) : Augmentation dégâts PVE , Morsure de dragon, Flux : Refoulement, Broyeur de croûte, Fissure ardente, Tornade, Ange ardent, Flux : Acte criminel, Esprit du musa, Pas en arrière.",
+                "Maehwa : L’effet Garde avant a été ajouté sur la compétence Morsure de dragon.",
+                "Ninja : Corrections et améliorations sur les capacités (8) : Clone de l’ombre, Ninjutsu : Piétinement des ombres, Lancer de Kunai/Shuriken, Dissimulation, Tueur né, Mesure Drastique.",
+                "Kunoichi : Corrections et améliorations sur les capacités (5) : Clone de l’ombre, Ninjutsu : Piétinement des ombres, Lancer de Kunai/Shuriken, Dissimulation.",
+                "Poings Furieux : Corrections et améliorations sur les capacités (3) : Broyeur de croûte, Flux : Frappe Nimbus, Loup accroupi, Flux : Prédateur, Frappe de la montagne."
+            ],
+            "Mécanique": [
+                "L’équilibre des monstres dans les régions de Balenos, Serendia et Calpheon a été retravaillé.",
+                "Les PA recommandés pour les certains monstres dans Calpheon ont été attribués.",
+                "Certains monstres dans Valencia et dans Kamasylvia donneront désormais des Traces (cf patch note pour la liste des spots = traces).",
+                "Le nombre d’objets différents que vous pouvez obtenir sur les monstres de Serendia et Calpheon a été réduit.",
+                "Les objets suivants peuvent désormais s’échanger auprès de PNJ : Casque rouillé, Humus noir.",
+                "Les lieux d’apparition des boss mondiaux suivants seront affichés sur la carte du monde : Kzarka, Nouver, Karanda et Kutum.",
+                "Les PV des monstres de l’océan ne remonteront plus lorsqu’ils retourneront à leur emplacement d’origine.",
+                "Les Totems Manshaums n’appliqueront plus de malus baissant les PD des aventuriers.",
+                "Les Totems Manshaums remonteront les PV des autres monstres.",
+                "Les PV des Totems Manshaums et des Exorcistes Manshaums ont été réduits de 50 %.",
+                "La difficulté des quêtes de l’Esprit Yianaros a été réduite.",
+                "Correction du problème où Urugon pouvait être enseveli sous terre après avoir été invoqué.",
+                "Correction du problème où certains monstres semblaient se téléporter par intermittence.",
+                "Il est désormais possible de pêcher des truites le long de la côte de Balenos.",
+                "De nouvelles quêtes ont été ajoutées à Velia.",
+                "Correctif du problème où il était impossible d’accepter la quête d’Esprit occulte après avoir terminé la quête du boute-à-port d’Altinova : Fil du destin.",
+                "Les connaissances requises pour la quête \"Tireur de balles magiques d’élite\" peuvent désormais être obtenues après avoir terminé la quête \"Incarnation d’Illezra\".",
+                "Les Notes d'artisanat pour la Cuisine, la Transformation, l’Alchimie et la Fabrication d’une maison incluront désormais la quantité de matériaux nécessaires pour fabriquer chaque objet.",
+                "Vous pouvez désormais survoler avec la souris certains textes coupés afin de pouvoir les afficher en intégralité.",
+                "Un effet graduel a été ajouté aux barres de PV situées au dessus des personnages.",
+                "Correction d’un problème où les textes explicatifs en bas de l’écran (visibles en cliquant sur le bouton de quai après avoir parlé au boute-à-port) se superposaient avec d’autres informations/fenêtres d’interface lors de l’utilisation d’une faible résolution.",
+                "Les icônes pour rechercher des PNJ et certaines icônes de montures ont été modifiées (carte du monde, mini carte...).",
+                "Un titre de chasseur supérieur à celui de Likke Behr peut être obtenu lorsque 3 Griffes brillantes de Khalk fugitif sont obtenues.",
+                "Correction du problème où le Coupon d'échange d'arme éveillée (7 jours) était seulement utilisable sur les armes de Dandelion.",
+                "Correction du problème où les ouvriers ne travaillaient pas au bon endroit et ne retournaient pas dans leurs hébergements après avoir accompli leurs tâches.",
+                "Correction d’un bug où vous pouviez nager dans certains endroits de certaines villas de Valencia."
+            ],
+            "Objet": [
+                "Afin d’améliorer les descriptions des armes principales et des armes secondaires (excepté Kutum), les caractéristiques des dégâts supplémentaires contre les montres ont été ajoutés.",
+                "Certaines caractéristiques apparaîtront dans la description d'objets (lifeskill). Quant à eux, les bonus n'ont pas changé.",
+                "Vous pouvez obtenir plus d’Élixirs au tendon de baleine via la transformation.",
+                "Le mousquet givré pour l’événement hivernal a été ajoutée.",
+                "Une image de la chasse utilisable sera affichée sur l’icône du Cristal magique.",
+                "6 nouveaux types de meubles ont été ajoutés liés à l'événement de Piku.",
+                "Le temps de recharge pour mettre des objets dans le sac d’équipement de Morco et le sac de costumes de Patrigio a été réduit de 3 à 1 seconde."
+            ],
+            "Cashshop": [
+                "Avec le lancement de la Mystique nous allons proposer de nombreux nouveaux objets pour la mystique comme le [Mystique] Pack de lancement pour vous aider à faire progresser ce fantastique personnage avec classe.",
+                "Les lots spéciaux de l’Hiver comme les Packs flocon, pour toutes les classes, incluant le Costume flocon, des sets Roselin hivernaux, et de jolis accessoires vont arriver."
+            ],
+            "Évent": [
+                "Événements liés au lancement de la mystique.",
+                "Affrontez le féroce Yeti Piku !",
+                "L’évènement des coupons de Serbianca a été prolongé jusqu’au 3 janvier 2018 (avant la maintenance)."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/631",
+        "date": "2017-12-13"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Promotion sur le billet d'extension d'emplacements de personnage.",
                 "Billet d'extension d'emplacements de personnage pour 1 loyalties pour le lancement de la mystique."
