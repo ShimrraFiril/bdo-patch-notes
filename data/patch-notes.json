@@ -1,6 +1,27 @@
 [
     {
         "categories": {
+            "Cashshop": [
+                "Ajout limité du set de Tom Hivernaux.",
+                "Ajout limité d'un pack flocon (costume + meubles + deux pets).",
+                "Ajout limité des costume du flocon pour les classes masculines et féminines.",
+                "[Mystique] Ajout limité d'un pack de lancement (costume + 150LT + 16 emplacements + flûte permanente)",
+                "Ajout du set de déco de vin d'Heidel.",
+                "[Mystique] Ajout du costume de Dhyana.",
+                "[Mystique] Ajout du costume de pêcheur Splat.",
+                "[Mystique] Ajout du costume de camouflage de Tréant.",
+                "[Mystique] Ajout du costume de camouflage du désert.",
+                "[Mystique] Ajout du costume d'équitation de Venia.",
+                "[Mystique] Ajout du costume de Venecil.",
+                "[Mystique] Ajout du costume de plongée Da-Daum Da-Daum.",
+                "[Mystique] Ajout des accessoires (boucle d'oreille, lunettes, piercing) et des sous-vêtements."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/629",
+        "date": "2017-12-13"
+    },
+    {
+        "categories": {
             "Système": [
                 "La taille totale du client a été réduit à environ 27 GB.",
                 "La roulade a été ajoutée lorsque la [Combat] Hache de démolition de Trina est équipée.",
