@@ -1,6 +1,96 @@
 [
     {
         "categories": {
+            "Système": [
+                "Correction du problème où le personnage changé d’emplacement en changeant de serveur après avoir utiliser \"Fuite\" depuis l'ancienne salle de pierre pendant la quête l'identité de l’artefact.",
+                "Le bouton par défaut «Afficher ouvriers» a été changé en «Cacher».",
+                "Les actions suivantes seront effectuées plus rapidement en fonction du niveau d’agriculture du personnage : Récolter, Améliorer, Tuer les insectes, Élagage.",
+                "Correction du problème ou l’annexe ne pouvait pas être installé autour du poste de commandement défensif de Calpheon.",
+                "La limite de niveau de commerce pour obtenir les jetons de commerce du désert depuis le PNJ Samaya au sanctuaire du pèlerin a été modifiée :Le géopoint du partage a été réduit de maitre 2 à artisan 2 et recevoir le bonus jeton de commerce du désert depuis le PNJ Marzana au géopoint de l’Oasis d'Ibellab a été réduit de maitre 1 à artisan 1.",
+                "Certaines modifications ont été faites concernant le catalogue de la boutique secrète de Patrigio.",
+                "Correction du problème où les pièges étaient impossibles à installer à certains endroits.",
+                "Correction du problème ou la compétence Ressusciter n’était pas appliquée pendant la période de résurrection de Conquête/Géoconflit.",
+                "Le nombre minimum de joueurs pour commencer le Champ de bataille rouge a diminué : 10 joueurs → 2 joueurs.",
+                "Vous pouvez désormais acheter les objets suivants pour exprimer vos condoléances (Cela est un hommage à un joueur et sa famille décédée dans un incendie).",
+                "La Poudre de Fée, un objet rare qui est obtenable par la récolte a été ajoutée. (Sert simplement à la revente au PNJ)"
+            ],
+            "Classe": [
+                "Les compétences d’éveil sont désormais dans les compétences assimilables.",
+                "Correction du problème qui apparaissait quand certaines classes étaient suspendues dans les airs après avoir utilisé certaines compétences à un certain moment.",
+                "Guerrier : Correction du problème ou une autre compétence était appliquée en retard après l’utilisation de Coup de pied tranchant et Entaille circulaire quand vous l’aviez appris au niveau 1.",
+                "Rôdeuse : Corrections et améliorations sur les capacités (4) : Flux: Vent découpant, Flux : invocation céleste, Tir de précision, Charge du vent, Flèche transperçante, Tir d'évitement, Vent rasoir, Compétence d'arc, Rôdeuse Tir d'évitement explosif.",
+                "Sorcière : Correction d’un problème où les effets des compétences suivantes n’apparaissaient pas sur les écrans des autres utilisateurs :  Flamme abyssale, Cauchemar d'apocalypse.",
+                "Musa : Corrections et améliorations sur les capacités (2) : Projection II~IV, Représailles.",
+                "Maehwa : Corrections et améliorations sur les capacités (3) : Représailles, corrections de bugs lorsque la maehwa était affectée par écrasement.",
+                "Ninja : Caorrections et améliorations sur les capacités (5) : Mesure Drastique, Flux: Explosion Mach, Déchainement de Surado, Pas fantôme I~III, Augmentation dégâts PVE.",
+                "Kunoichi : Corrections et améliorations sur les capacités (2) : Pas fantôme I~III, Augmentation dégâts PVE."
+            ],
+            "Quête": [
+                "Une quête “[Promotion de combat] Loutre des mers mal à l'aise” peut âtre acceptée par les personnages de Nv. 55 ou supérieur.",
+                "Correction du problème qui faisait qu’il était possible d’acheter une connaissance que vous connaissiez déjà.",
+                "Une nouvelle connaissance, “Éveil : Libérez le pouvoir qui sommeille en vous” peut être obtenue en terminant les quêtes d’éveil de chaque classe.",
+                "Les conditions d’obtention de la quête “Le wagon disparu” ont été changées.",
+                "Une nouvelle connaissance “Arène d'Altinova” peut être obtenue en terminant la quête “Combattants légendaires”.",
+                "Une nouvelle quête “Cadeau de l’esprit occulte (Servante) a été ajoutée."
+            ],
+            "Mécanique": [
+                "Certains élixirs partageront désormais une icône d’effet positif. Vous pouvez placer votre souris sur l’icône pour voir les détails du bonus.",
+                "Un effet spécial sera montré lorsque le bonus est appliqué en utilisant les objets suivants : Élixir de Khalk (Effet violet), Élixir de mer abyssale (Effet rouge), Élixir de parfum spirituel (Effet vert).",
+                "Les pierres de cron peuvent être appliqués aux objets suivants : Accessoire, Éveil de destrier.",
+                "Une méthode de fabrication de Précieux coffret d'alchimie d'artisan depuis la livraison Impériale d’artisanat a été ajustée.",
+                "Un nouveau guide pour l’interaction avec les objets décoratifs des maisons a été ajouté.",
+                "Correction d’un problème concernant les points d’intérieur.",
+                "L’esquive des monstres dans le Camp bashim a été réduite de 10 %.",
+                "4 monstres Demol et 4 monstres Burmol ont été placés au nord et au nord-est de l’Oasis d'Ibellab.",
+                "La fréquence d’apparition des objets “Trace” (Trace de bataille, Trace de chaos, Trace de mort, Trace de chasse, et d’autres) sur les monstres de Valencia et Kamasylvia a été réduite de 50 %.",
+                "Correction du problème qui faisait que les effets de la compétence Parade de Faux ne faisait pas la différence entre les alliés et les ennemis.",
+                "Correction du problème qui faisait que les personnages s’enfonçaient en escaladant jusqu’au somment de Kamasylve à Grána, Kamasylvia.",
+                "Correction du problème qui faisait qu’une Clé en or pouvait être obtenue de manière très rare en péchant dans certaines zones.",
+                "Correction du problème qui faisait qu’il était possible de nager dans certaines zones du Sanctuaire de Kzarka et de la Carrière abandonnée alors qu’il n’y a pas d’eau.",
+                "Correction du problème qui faisait que certains raccourcis comme “I” pour l’inventaire, ne fonctionnait pas après avoir ouvert le Marché depuis le menu Echap puis fermer la fenêtre en cliquant sur le X dans son coin supérieur droit.",
+                "Correction du problème qui faisait que le personnage dormait sous le Lit en bois gelé."
+            ],
+            "UI": [
+                "Correction du problème qui causait un tremblement permanent pour le guide de navigation et la mini-carte.",
+                "Quand vous essaierez de récupérer la Durabilité max. d’un objet transfusé avec un cristal ou des cristaux, une alerte apparaîtra.",
+                "Correction du problème qui causait le tremblement de l’interface près des lettres (Ex : Barre de vie).",
+                "Correction du problème qui faisait que le nombre maximal sur le clavier était changé après des mouvements dans l’Argent de l'inventaire et du Compte du dépôt après plusieurs achats.",
+                "Le nombre maximal d’objet empilés que vous pouvez acheter sera maintenant calculé en fonction de la limite de poids de votre personnage et des fonds restant dans l’Argent de l'inventaire et du Compte du dépôt.",
+                "Le message qui apparaît quand vous passez votre souris sur Agriculture dans Mes informations a été changé pour inclure des informations sur les bonus obtenus en montant de niveau.",
+                "Correction du problème qui faisait que certaines icônes n’étaient pas affichées dans les Notes d'artisanat.",
+                "Correction du problème qui faisait que les PV du Personnage était affichés dans le coin supérieur gauche.",
+                "Le temps de réponse après avoir appuyé sur les boutons de l’IU a été réduit de 1 sec. à 0,5 sec.",
+                "Correction du problème qui faisait que l’icône Bouclier garde avant s’affichait parfois au mauvais endroit.",
+                "Modification des connaissances sur Edana et Gyfin Rhasia."
+            ],
+            "Objet": [
+                "De nouvelles tenues événementielles ont été ajoutées."
+            ],
+            "Cashshop": [
+                "Les promotions de fin d’année sont là !",
+                "Correction des paramètres anormaux qui apparaissaient lors de la vente d’un Corbeau sur le Marché."
+            ],
+            "Évent": [
+                "Pour que l'humeur reste festive, nous étendons le weekend de double EXP jusqu'au 26 Déc (8h00 UTC). Passez de bonnes fêtes !",
+                "Faîtes pousser un Arbre de Cron ! Nous voulons faire savoir à nos aventuriers qu’un événement qui suit celui de l’arbre de Cron est prévu et qu’il dépendra du nombre d’étoiles qu’il y aura au haut de l’arbre ! Accrochez les décorations et attendez-vous à des récompenses !",
+                "Le Grand-père Cron tourne au-dessus des villes et laissera tomber des cadeaux.",
+                "Il est possible de récupérer des fragments de mémoires en tuant des monstres, en pêchant et en récoltant.",
+                "Il est possible de récupérer des objets dorés en tuant des monstres, en pêchant et en récoltant.",
+                "Les décorations de l’hiver ont été ajoutés.",
+                "Les coupons de Serbianca peuvent être échangés jusqu’au 10 janvier (09:00 UTC).",
+                "La date finale pour les récompenses de fidélité des nouveaux joueurs et ceux qui reviennent a été repoussé jusqu’au 3 janvier 23:59 UTC au lieu du 31 décembre.",
+                "Événement de résistance aux effets négatifs du désert.",
+                "Événement de feux d’artifice.",
+                "L’aventure de l’esprit occulte est terminée.",
+                "Certaines PNJ portent désormais des vêtements d’hiver spéciaux. Pourquoi ne pas leur rendre visite ?",
+                "Le thème musical des fêtes de fin d’année sera joué dans les villes de Valencia, Calpheon, Velia, Heidel, Altinova pendant toute la durée de l’événement."
+            ]
+        },
+        "link": "https://www.blackdesertonline.com/news/view/646",
+        "date": "2017-12-20"
+    },
+    {
+        "categories": {
             "Cashshop": [
                 "Ajout limité du set de Tom Hivernaux.",
                 "Ajout limité d'un pack flocon (costume + meubles + deux pets).",
